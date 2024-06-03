@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>example &#8211; WP Static Test 2</title>
+	<atom:link href="/wp-static-test-2/tag/example/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp-static-test-2/</link>
+	<description>This is a tagline</description>
+	<lastBuildDate>Fri, 31 May 2024 21:46:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Yet Another Sample, But This Time We&#8217;ll Call It an Example</title>
+		<link>/wp-static-test-2/yet-another-sample-but-this-time-well-call-it-an-example/</link>
+					<comments>/wp-static-test-2/yet-another-sample-but-this-time-well-call-it-an-example/#respond</comments>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 21:24:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[example]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[sample]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1037</guid>
+
+					<description><![CDATA[Welcome back, dear readers, to the world of sample blog posts. Or should we say, example blog posts? Today, we&#8217;re embracing the art of redundancy and basking in the glory of the example blog post. Isn&#8217;t it just exhilarating? What&#8217;s in a Name? You might be wondering, &#8220;Why call it an example instead of a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome back, dear readers, to the world of sample blog posts. Or should we say, example blog posts? Today, we&#8217;re embracing the art of redundancy and basking in the glory of the example blog post. Isn&#8217;t it just exhilarating?</p>
+
+
+
+<h3 class="wp-block-heading">What&#8217;s in a Name?</h3>
+
+
+
+<p>You might be wondering, &#8220;Why call it an example instead of a sample?&#8221; Well, my friends, it&#8217;s all about perspective. An example blog post is just like a sample blog post, but with a dash of elegance and a sprinkle of sophistication. It&#8217;s essentially the same, but doesn&#8217;t it sound fancier?</p>
+
+
+
+<h3 class="wp-block-heading">The Journey Continues</h3>
+
+
+
+<p>From the moment you started reading, you knew exactly what this post would be. Just like our previous sample, this example blog post has all the essential elements: an intriguing introduction, a compelling body, and a satisfying conclusion. But with a name like &#8220;example,&#8221; it just feels a bit more special, doesn&#8217;t it?</p>
+
+
+
+<h3 class="wp-block-heading">Reveling in the Expected</h3>
+
+
+
+<p>There&#8217;s a unique comfort in the familiar. This example blog post is predictable, sure, but that&#8217;s part of its charm. You know what to expect, and it delivers exactly that. No surprises, no plot twists, just the straightforward joy of an example being exactly what it claims to be.  And now an unexpected image! </p>
+
+
+
+<figure class="wp-block-image size-full wp-duotone-default-filter"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-13.jpeg" alt="" class="wp-image-1097" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-13.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-13-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-13-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 237</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Bringing It All Together</h3>
+
+
+
+<p>As we wrap up this delightful exploration, let&#8217;s appreciate the simple beauty of an example blog post. It exists, it serves its purpose, and it brings a smile to our faces with its straightforward predictability.</p>
+
+
+
+<p>So here&#8217;s to the humble example blog post, a slightly more refined cousin of the sample post. Until next time, keep enjoying the simple pleasures and the delightful redundancy of examples!</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>And there you have it! An example blog post about being an example blog post. Isn&#8217;t that something?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wp-static-test-2/yet-another-sample-but-this-time-well-call-it-an-example/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1037</post-id>	</item>
+	</channel>
+</rss>
