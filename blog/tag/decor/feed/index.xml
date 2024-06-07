@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>decor &#8211; WP Static Test 2</title>
+	<atom:link href="/wp-static-test-2/blog/tag/decor/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp-static-test-2/</link>
+	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
+	<lastBuildDate>Fri, 31 May 2024 21:45:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Essential Tips for Pet-Friendly Home Decor</title>
+		<link>/wp-static-test-2/blog/pet-health/essential-tips-for-pet-friendly-home-decor/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 21:35:14 +0000</pubDate>
+				<category><![CDATA[Pet Health]]></category>
+		<category><![CDATA[Pet Products]]></category>
+		<category><![CDATA[cleaning]]></category>
+		<category><![CDATA[decor]]></category>
+		<category><![CDATA[home]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1050</guid>
+
+					<description><![CDATA[Creating a pet-friendly home doesn&#8217;t mean sacrificing style. With a few thoughtful choices, you can have a beautiful home that&#8217;s also safe and comfortable for your pets. Here are some essential tips for pet-friendly home decor. Choose Durable Fabrics Opt for durable, easy-to-clean fabrics for your furniture. Materials like leather, microfiber, and outdoor fabrics are [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-7.jpeg" alt="" class="wp-image-1088" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-7.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-7-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-7-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 658</figcaption></figure>
+
+
+
+<p>Creating a pet-friendly home doesn&#8217;t mean sacrificing style. With a few thoughtful choices, you can have a beautiful home that&#8217;s also safe and comfortable for your pets. Here are some essential tips for pet-friendly home decor.</p>
+
+
+
+<h2 class="wp-block-heading">Choose Durable Fabrics</h2>
+
+
+
+<p>Opt for durable, easy-to-clean fabrics for your furniture. Materials like leather, microfiber, and outdoor fabrics are great choices as they can withstand pet wear and tear. Consider slipcovers for an added layer of protection.</p>
+
+
+
+<h3 class="wp-block-heading">Flooring</h3>
+
+
+
+<p>Hard floors like tile, laminate, and hardwood are easier to clean than carpets. If you prefer rugs, choose ones that are machine washable and have a low pile to prevent your pet&#8217;s claws from getting caught.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-8.jpeg" alt="" class="wp-image-1089" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-8.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-8-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-8-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 374</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Pet-Friendly Furniture</h2>
+
+
+
+<p>Select furniture with your pets in mind. Look for scratch-resistant surfaces and avoid delicate materials that can be easily damaged. Consider investing in pet-specific furniture like cat trees or dog beds to give your pets their own space.</p>
+
+
+
+<h2 class="wp-block-heading">Safe and Stylish Decor</h2>
+
+
+
+<p>Ensure that your decor is safe for your pets. Avoid items that can be easily knocked over or chewed on. Secure cords and cables out of reach. Use decorative baskets or storage solutions to keep pet toys organized and accessible.</p>
+
+
+
+<h3 class="wp-block-heading">Greenery</h3>
+
+
+
+<p>Plants can add life to your home, but be sure to choose pet-safe varieties. Some common houseplants are toxic to pets, so do your research and select non-toxic options like spider plants, Boston ferns, or bamboo palms.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>With a little planning, you can create a pet-friendly home that&#8217;s both stylish and functional. By choosing durable materials and safe decor, you can enjoy a beautiful home that accommodates your furry friends.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1050</post-id>	</item>
+	</channel>
+</rss>

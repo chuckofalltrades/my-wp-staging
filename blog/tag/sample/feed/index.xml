@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>sample &#8211; WP Static Test 2</title>
+	<atom:link href="/wp-static-test-2/blog/tag/sample/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp-static-test-2/</link>
+	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
+	<lastBuildDate>Fri, 07 Jun 2024 17:31:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>What did I like about Otter?</title>
+		<link>/wp-static-test-2/blog/uncategorized/what-did-i-like-about-otter/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[nachos]]></category>
+		<category><![CDATA[nothing]]></category>
+		<category><![CDATA[sample]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1270</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div id="wp-block-themeisle-blocks-circle-counter-9ba82ccc" data-percentage="68" data-duration="0" data-height="127" data-stroke-width="15" class="wp-block-themeisle-blocks-circle-counter"><div class="wp-block-themeisle-blocks-circle-counter-title__area"><span class="wp-block-themeisle-blocks-circle-counter-title__value">Skill</span></div><div class="wp-block-themeisle-blocks-circle-counter__bar"></div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1270</post-id>	</item>
+		<item>
+		<title>Tooltip test</title>
+		<link>/wp-static-test-2/blog/uncategorized/tooltip-test/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 19:44:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[sample]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1259</guid>
+
+					<description><![CDATA[In this post I will mention the turtle. Now what happens?]]></description>
+										<content:encoded><![CDATA[
+<p>In this post I will mention the turtle.  Now what happens?</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1259</post-id>	</item>
+		<item>
+		<title>This Is a Sample Post</title>
+		<link>/wp-static-test-2/blog/uncategorized/this-is-a-sample-post/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 21:20:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[sample]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1034</guid>
+
+					<description><![CDATA[Welcome, dear readers, to the most thrilling adventure you&#8217;ll embark on today: reading a sample blog post! Yes, you heard that right. This post is purely a sample, a demonstration, an example of what a blog post can be. Isn&#8217;t that just the most exciting thing? What Makes This Sample Post Special? You might be [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome, dear readers, to the most thrilling adventure you&#8217;ll embark on today: reading a sample blog post! Yes, you heard that right. This post is purely a sample, a demonstration, an example of what a blog post can be. Isn&#8217;t that just the most exciting thing?</p>
+
+
+
+<h3 class="wp-block-heading">What Makes This Sample Post Special?</h3>
+
+
+
+<p>You might be wondering, &#8220;What&#8217;s the big deal about a sample blog post?&#8221; Well, let me tell you, it&#8217;s all about the experience. This isn&#8217;t just any ordinary blog post; it&#8217;s a celebration of the blog post in its purest form. A post that exists simply to be a post.</p>
+
+
+
+<h3 class="wp-block-heading">The Journey of a Sample Post</h3>
+
+
+
+<p>From the first word to the last punctuation mark, this post is designed to show you what a blog post looks like. It&#8217;s got all the right elements: an introduction, some body paragraphs, and even a conclusion. But it doesn&#8217;t have to try too hard because it knows it&#8217;s just a sample.</p>
+
+
+
+<h3 class="wp-block-heading">The Thrill of the Expected</h3>
+
+
+
+<p>There&#8217;s something comforting about knowing exactly what you&#8217;re getting into. With this sample blog post, there are no surprises, no twists or turns, just the straightforward joy of a blog post being exactly what it claims to be.</p>
+
+
+
+<h3 class="wp-block-heading">Wrapping It All Up</h3>
+
+
+
+<p>As we reach the end of this extraordinary journey, let&#8217;s take a moment to appreciate the beauty of simplicity. This sample blog post has done its job: it exists, it entertains (hopefully), and it reminds us of the delightful predictability of a well-crafted piece of writing.</p>
+
+
+
+<p>So, here&#8217;s to the humble sample blog post, a true unsung hero in the world of blogging. Until next time, keep enjoying the simple pleasures!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1034</post-id>	</item>
+		<item>
+		<title>Yet Another Sample, But This Time We&#8217;ll Call It an Example</title>
+		<link>/wp-static-test-2/blog/uncategorized/yet-another-sample-but-this-time-well-call-it-an-example/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 21:24:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[example]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[sample]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1037</guid>
+
+					<description><![CDATA[Welcome back, dear readers, to the world of sample blog posts. Or should we say, example blog posts? Today, we&#8217;re embracing the art of redundancy and basking in the glory of the example blog post. Isn&#8217;t it just exhilarating? What&#8217;s in a Name? You might be wondering, &#8220;Why call it an example instead of a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome back, dear readers, to the world of sample blog posts. Or should we say, example blog posts? Today, we&#8217;re embracing the art of redundancy and basking in the glory of the example blog post. Isn&#8217;t it just exhilarating?</p>
+
+
+
+<h3 class="wp-block-heading">What&#8217;s in a Name?</h3>
+
+
+
+<p>You might be wondering, &#8220;Why call it an example instead of a sample?&#8221; Well, my friends, it&#8217;s all about perspective. An example blog post is just like a sample blog post, but with a dash of elegance and a sprinkle of sophistication. It&#8217;s essentially the same, but doesn&#8217;t it sound fancier?</p>
+
+
+
+<h3 class="wp-block-heading">The Journey Continues</h3>
+
+
+
+<p>From the moment you started reading, you knew exactly what this post would be. Just like our previous sample, this example blog post has all the essential elements: an intriguing introduction, a compelling body, and a satisfying conclusion. But with a name like &#8220;example,&#8221; it just feels a bit more special, doesn&#8217;t it?</p>
+
+
+
+<h3 class="wp-block-heading">Reveling in the Expected</h3>
+
+
+
+<p>There&#8217;s a unique comfort in the familiar. This example blog post is predictable, sure, but that&#8217;s part of its charm. You know what to expect, and it delivers exactly that. No surprises, no plot twists, just the straightforward joy of an example being exactly what it claims to be.  And now an unexpected image! </p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-13.jpeg" alt="" class="wp-image-1097" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-13.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-13-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-13-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 237</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Bringing It All Together</h3>
+
+
+
+<p>As we wrap up this delightful exploration, let&#8217;s appreciate the simple beauty of an example blog post. It exists, it serves its purpose, and it brings a smile to our faces with its straightforward predictability.</p>
+
+
+
+<p>So here&#8217;s to the humble example blog post, a slightly more refined cousin of the sample post. Until next time, keep enjoying the simple pleasures and the delightful redundancy of examples!</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>And there you have it! An example blog post about being an example blog post. Isn&#8217;t that something?</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1037</post-id>	</item>
+	</channel>
+</rss>

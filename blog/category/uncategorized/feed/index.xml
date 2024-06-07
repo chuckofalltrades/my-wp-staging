@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; WP Static Test 2</title>
+	<atom:link href="/wp-static-test-2/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp-static-test-2/</link>
+	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
+	<lastBuildDate>Fri, 07 Jun 2024 21:45:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Test Commenting system</title>
+		<link>/wp-static-test-2/blog/uncategorized/test-commenting-system/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 21:39:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1458</guid>
+
+					<description><![CDATA[This is using the Cusdis privacy-first commenting platform. https://cusdis.com/]]></description>
+										<content:encoded><![CDATA[
+<p>This is using the Cusdis privacy-first commenting platform.  <a href="https://cusdis.com/">https://cusdis.com/</a></p>
+
+
+
+<div class="wp-block-group has-foreground-color has-text-color has-link-color wp-elements-4719c3a597128b24c109b13a0448cd26 has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="fb932750-df76-4288-8b33-7f730e3f56f9"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+</div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1458</post-id>	</item>
+		<item>
+		<title>Animated text text.</title>
+		<link>/wp-static-test-2/blog/uncategorized/animated-text-text/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 21:11:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1453</guid>
+
+					<description><![CDATA[I have a few that do this I think. It worked once I guess?]]></description>
+										<content:encoded><![CDATA[
+<p>I have a few that do this I think.</p>
+
+
+		<div class='wp-block-atb-animated-text  align' id='atbAnimatedText-c2cf08c8-4' data-attributes='{&quot;cId&quot;:&quot;c2cf08c8-4&quot;,&quot;inEffect&quot;:&quot;flip&quot;,&quot;content&quot;:&quot;This one is called animated text&quot;,&quot;typography&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:36,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;color&quot;:&quot;rgba(255, 255, 255, 1)&quot;,&quot;align&quot;:&quot;&quot;,&quot;loop&quot;:true,&quot;animateIn&quot;:&quot;char&quot;,&quot;inSequence&quot;:&quot;default&quot;,&quot;outEffect&quot;:&quot;rollOut&quot;,&quot;outSequence&quot;:&quot;shuffle&quot;,&quot;textAlign&quot;:&quot;center&quot;,&quot;background&quot;:{&quot;color&quot;:&quot;#0000&quot;},&quot;padding&quot;:{&quot;vertical&quot;:&quot;15px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;border&quot;:{&quot;radius&quot;:&quot;5px&quot;},&quot;hasCustomCSS&quot;:false,&quot;customCSS&quot;:&quot;&quot;,&quot;otterConditions&quot;:[]}'></div>
+
+		
+
+
+<p>It worked once I guess?</p>
+
+
+		<div class='wp-block-ttb-text-typing  align' id='ttbTextTyping-987c7f98-6' data-attributes='{&quot;cId&quot;:&quot;987c7f98-6&quot;,&quot;isShuffle&quot;:true,&quot;prefixColor&quot;:&quot;#FFF&quot;,&quot;align&quot;:&quot;&quot;,&quot;prefixText&quot;:&quot;We create &quot;,&quot;typingContents&quot;:[{&quot;text&quot;:&quot;WordPress Plugins&quot;,&quot;color&quot;:&quot;#52c41a&quot;},{&quot;text&quot;:&quot;WordPress Themes&quot;,&quot;color&quot;:&quot;#fa8c16&quot;},{&quot;text&quot;:&quot;Drupal Modules&quot;,&quot;color&quot;:&quot;#1890ff&quot;},{&quot;text&quot;:&quot;Prestashop Modules&quot;,&quot;color&quot;:&quot;#df0067&quot;},{&quot;text&quot;:&quot;Magento Extensions&quot;,&quot;color&quot;:&quot;#f46f25&quot;},{&quot;text&quot;:&quot;Shopify Apps&quot;,&quot;color&quot;:&quot;#95bf47&quot;}],&quot;suffixText&quot;:&quot;&quot;,&quot;typeSpeed&quot;:100,&quot;startDelay&quot;:500,&quot;backSpeed&quot;:75,&quot;backDelay&quot;:500,&quot;isFadeOut&quot;:false,&quot;fadeOutDelay&quot;:500,&quot;isLoop&quot;:true,&quot;loopCount&quot;:0,&quot;isCursor&quot;:true,&quot;cursorChar&quot;:&quot;|&quot;,&quot;textAlign&quot;:&quot;center&quot;,&quot;background&quot;:{&quot;color&quot;:&quot;#0000&quot;},&quot;padding&quot;:{&quot;vertical&quot;:&quot;10px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;prefixTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;typingContentsTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18},&quot;fontWeight&quot;:600},&quot;suffixTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;suffixColor&quot;:&quot;#333&quot;,&quot;hasCustomCSS&quot;:false,&quot;customCSS&quot;:&quot;&quot;,&quot;otterConditions&quot;:[]}'></div>
+
+		]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1453</post-id>	</item>
+		<item>
+		<title>What did I like about Otter?</title>
+		<link>/wp-static-test-2/blog/uncategorized/what-did-i-like-about-otter/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[nachos]]></category>
+		<category><![CDATA[nothing]]></category>
+		<category><![CDATA[sample]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1270</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div id="wp-block-themeisle-blocks-circle-counter-9ba82ccc" data-percentage="68" data-duration="0" data-height="127" data-stroke-width="15" class="wp-block-themeisle-blocks-circle-counter"><div class="wp-block-themeisle-blocks-circle-counter-title__area"><span class="wp-block-themeisle-blocks-circle-counter-title__value">Skill</span></div><div class="wp-block-themeisle-blocks-circle-counter__bar"></div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1270</post-id>	</item>
+		<item>
+		<title>Tooltip test</title>
+		<link>/wp-static-test-2/blog/uncategorized/tooltip-test/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 19:44:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[sample]]></category>
+		<category><![CDATA[Test]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1259</guid>
+
+					<description><![CDATA[In this post I will mention the turtle. Now what happens?]]></description>
+										<content:encoded><![CDATA[
+<p>In this post I will mention the turtle.  Now what happens?</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1259</post-id>	</item>
+		<item>
+		<title>And yet another footnotes test.</title>
+		<link>/wp-static-test-2/blog/uncategorized/and-yet-another-footnotes-test/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 19:16:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1254</guid>
+
+					<description><![CDATA[I&#8217;m betting it&#8217;s still not what i want. And yet another block. Nope, this wants to use the formatting. ((Like this?)) And I guess maybe another. ((Like this one is another one.)) Hey. Turtle!]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;m betting it&#8217;s still not what i want.<sup data-fn="57c1ce04-97a2-4c72-b732-5ffcce075aa2" class="fn"><a href="#57c1ce04-97a2-4c72-b732-5ffcce075aa2" id="57c1ce04-97a2-4c72-b732-5ffcce075aa2-link">1</a></sup></p>
+
+
+<ol class="wp-block-footnotes"><li id="57c1ce04-97a2-4c72-b732-5ffcce075aa2">Did it?  Probbaly not. <a href="#57c1ce04-97a2-4c72-b732-5ffcce075aa2-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="2d7d948f-ee53-45ab-ba50-635037f305c6">still up there&#8230; <a href="#2d7d948f-ee53-45ab-ba50-635037f305c6-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>
+
+
+<p>And yet another block.<sup data-fn="2d7d948f-ee53-45ab-ba50-635037f305c6" class="fn"><a href="#2d7d948f-ee53-45ab-ba50-635037f305c6" id="2d7d948f-ee53-45ab-ba50-635037f305c6-link">2</a></sup></p>
+
+
+
+<p>Nope, this wants to use the formatting. ((Like this?))</p>
+
+
+
+<p>And I guess maybe another.  ((Like this one is another one.))</p>
+
+
+
+<p>Hey.  Turtle!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1254</post-id>	</item>
+		<item>
+		<title>Ok, do footnotes work better now?</title>
+		<link>/wp-static-test-2/blog/uncategorized/ok-do-footnotes-work-better-now/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 19:11:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1250</guid>
+
+					<description><![CDATA[So like I can use this different one&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><mfn>So like I can use this different one&#8230;</mfn></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1250</post-id>	</item>
+		<item>
+		<title>I think a lot of this adds value where I didn&#8217;t know I needed it.</title>
+		<link>/wp-static-test-2/blog/uncategorized/i-think-a-lot-of-this-adds-value-where-i-didnt-know-i-needed-it/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 18:50:41 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1247</guid>
+
+					<description><![CDATA[Which is perfect. Like when I want just this word blue? No, I can do that. But I see no abbreviations type syntax? Is that auto footnoting? Not related to what I was doing. Anyway, abbreviation glossary type syntax? None I can find. What about the *markdown*, nope! Interesting. Glyphs? Nope. Ok, featured image&#8230; Ok, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Which is perfect.</p>
+
+
+
+<p>Like when I want just this word <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">blue</mark>?  No, I can do that.</p>
+
+
+
+<p>But I see no abbreviations<sup data-fn="f4f5e661-d181-4462-b0b5-3aa500f9ce91" class="fn"><a href="#f4f5e661-d181-4462-b0b5-3aa500f9ce91" id="f4f5e661-d181-4462-b0b5-3aa500f9ce91-link">1</a></sup> type syntax?</p>
+
+
+<ol class="wp-block-footnotes"><li id="f4f5e661-d181-4462-b0b5-3aa500f9ce91">Oh, neat, footnotes! <a href="#f4f5e661-d181-4462-b0b5-3aa500f9ce91-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="2ad69da9-a36e-4d59-aa87-51db3d1e3c33">For the heck of it, another footnote.  Why are they way up here though? <a href="#2ad69da9-a36e-4d59-aa87-51db3d1e3c33-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>
+
+
+<p>Is that auto footnoting?  Not related to what I was doing.  Anyway, abbreviation glossary type syntax?  None I can find.</p>
+
+
+
+<ol>
+<li>List item</li>
+
+
+
+<li><s>Again</s>.</li>
+</ol>
+
+
+
+<p>What about the *markdown*, nope!  Interesting<sup data-fn="2ad69da9-a36e-4d59-aa87-51db3d1e3c33" class="fn"><a href="#2ad69da9-a36e-4d59-aa87-51db3d1e3c33" id="2ad69da9-a36e-4d59-aa87-51db3d1e3c33-link">2</a></sup>.</p>
+
+
+
+<p>Glyphs? Nope.</p>
+
+
+
+<p>Ok, featured image&#8230;</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="683" height="1024" src="/wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-683x1024.jpg" alt="white and brown long fur cat" class="wp-image-1150" srcset="/wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-683x1024.jpg 683w, /wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-200x300.jpg 200w, /wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-768x1152.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+
+
+
+<p>Ok, good plugin!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1247</post-id>	</item>
+		<item>
+		<title>Understanding Markdown: A Guide to Superscripts, Glyphs, and Formatting Techniques</title>
+		<link>/wp-static-test-2/blog/uncategorized/editor-plugin-testing/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 18:42:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1245</guid>
+
+					<description><![CDATA[Discover the essentials of Markdown, including superscripts and unique glyphs, to enhance your text formatting and improve your writing efficiency.]]></description>
+										<content:encoded><![CDATA[
+<p>So now I <span style="background-color:#3695DA" class="has-inline-background">paragraph</span> then <abbr title="This word is not." lang="en">not</abbr>. <mark style="background-color:rgba(0, 0, 0, 0);color:#d72929" class="has-inline-color">And here we go.</mark> But then back. <sup>Superscript!</sup></p>
+
+
+
+<pre class="wp-block-code"><code><s>Like this?</s></code></pre>
+
+
+
+<p>Yet another thing that understands <strong>markdown</strong>?</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+
+
+
+<p>So I want a glyph&#8230; ↻</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="785" src="/wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-1024x785.jpg" alt="brown and white tabby cat" class="wp-image-1152" srcset="/wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-1024x785.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-300x230.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-768x589.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-1536x1178.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye.jpg 1565w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1245</post-id>	</item>
+		<item>
+		<title>Another bar</title>
+		<link>/wp-static-test-2/blog/uncategorized/another-bar/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2024 22:28:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1237</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div style="font-style:normal;font-weight:600" class="wp-block-pono-press-juno has-xx-large-font-size"><div class="juno juno-container" data-shape-type="circle" data-enable-text="true" data-percentile="85" data-shape-animation="linear" data-animation-duration="0" data-size="29" data-text-color="#42505C" data-fill-color="#fff" data-stroke-color="#ffbb00" data-stroke-width="17" data-trail-color="#abb8c3" data-trail-width="17"></div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1237</post-id>	</item>
+		<item>
+		<title>Bootstrap</title>
+		<link>/wp-static-test-2/blog/uncategorized/bootstrap/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2024 22:24:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1235</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+
+
+
+
+
+
+<div class="wp-block-areoi-icon areoi-icon"><i class="text-primary bi-activity " style="font-size:24px"></i></div>
+
+
+
+
+
+
+
+<p>Testing a toast</p>
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1235</post-id>	</item>
+	</channel>
+</rss>

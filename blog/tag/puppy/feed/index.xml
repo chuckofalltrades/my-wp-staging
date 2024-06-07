@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>puppy &#8211; WP Static Test 2</title>
+	<atom:link href="/wp-static-test-2/blog/tag/puppy/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp-static-test-2/</link>
+	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
+	<lastBuildDate>Fri, 31 May 2024 21:46:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>The Ultimate Guide to Dog Training</title>
+		<link>/wp-static-test-2/blog/dog-care/the-ultimate-guide-to-dog-training/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Sun, 26 May 2024 21:34:48 +0000</pubDate>
+				<category><![CDATA[Dog Care]]></category>
+		<category><![CDATA[Pet Training]]></category>
+		<category><![CDATA[dog]]></category>
+		<category><![CDATA[puppy]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1046</guid>
+
+					<description><![CDATA[Training your dog is essential for a happy and well-behaved pet. Whether you have a new puppy or an older dog, consistent training will ensure they understand what is expected of them. Here are some tips to get you started. Basic Commands Start with basic commands like &#8220;sit,&#8221; &#8220;stay,&#8221; and &#8220;come.&#8221; Use positive reinforcement techniques, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-11.jpeg" alt="" class="wp-image-1094" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-11.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-11-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-11-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 51</figcaption></figure>
+
+
+
+<p>Training your dog is essential for a happy and well-behaved pet. Whether you have a new puppy or an older dog, consistent training will ensure they understand what is expected of them. Here are some tips to get you started.</p>
+
+
+
+<h2 class="wp-block-heading">Basic Commands</h2>
+
+
+
+<p>Start with basic commands like &#8220;sit,&#8221; &#8220;stay,&#8221; and &#8220;come.&#8221; Use positive reinforcement techniques, such as treats and praise, to encourage good behavior. Practice these commands daily to reinforce learning.</p>
+
+
+
+<h3 class="wp-block-heading">Sit</h3>
+
+
+
+<ol>
+<li>Hold a treat close to your dog&#8217;s nose.</li>
+
+
+
+<li>Move your hand up, allowing their head to follow the treat and causing their bottom to lower.</li>
+
+
+
+<li>Once they are in a sitting position, say &#8220;sit,&#8221; give them the treat, and show affection.</li>
+</ol>
+
+
+
+<h3 class="wp-block-heading">Stay</h3>
+
+
+
+<ol>
+<li>Ask your dog to sit.</li>
+
+
+
+<li>Open your palm in front of you and say &#8220;stay.&#8221;</li>
+
+
+
+<li>Take a few steps back. If they stay, reward them with a treat and praise.</li>
+
+
+
+<li>Gradually increase the distance over time.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-12.jpeg" alt="" class="wp-image-1095" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-12.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-12-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-12-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 404</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">House Training</h2>
+
+
+
+<p>House training is crucial for a well-mannered dog. Consistency is key. Take your dog outside frequently, especially after eating, drinking, or waking up. Praise them when they eliminate outside to reinforce the behavior.</p>
+
+
+
+<h2 class="wp-block-heading">Socialization</h2>
+
+
+
+<p>Expose your dog to different people, environments, and other animals to ensure they are well-adjusted. Socialization helps prevent behavioral issues and makes your dog more confident and comfortable in various situations.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>Training your dog takes time and patience, but the rewards are worth it. A well-trained dog is a joy to be around and can participate in more activities with you. Keep practicing and stay consistent, and you&#8217;ll see great results.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1046</post-id>	</item>
+	</channel>
+</rss>
