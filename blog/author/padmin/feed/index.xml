@@ -15,7 +15,7 @@
 	<atom:link href="/wp-static-test-2/blog/author/padmin/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp-static-test-2/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
-	<lastBuildDate>Fri, 07 Jun 2024 21:45:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Jun 2024 16:09:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,106 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>Gutenbee Block Testing</title>
+		<link>/wp-static-test-2/blog/uncategorized/gutenbee-block-testing/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2024 16:09:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1475</guid>
+
+					<description><![CDATA[I really need to learn to type&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I really need to learn to type&#8230;</p>
+
+
+
+<div id="block-ea0f43-75d3-48" class="wp-block-gutenbee-banner block-ea0f43-75d3-48 has-parallax has-background-image" style="color:"><div class="wp-block-gutenbee-banner-inner"><div class="wp-block-gutenbee-banner-inner-wrapper">
+<h2 class="wp-block-heading">Hi there</h2>
+
+
+
+<p>So it&#8217;s just a container?</p>
+</div></div><div class="wp-block-gutenbee-banner-background gutenbee-parallax" data-parallax-speed="0.3" style="background-color:#F8F8F8"></div><style>.wp-block-gutenbee-banner.block-ea0f43-75d3-48 { height: 327px; }
+.wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-inner { align-items: center; justify-content: center; }
+.wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-background { background-image: url(/wp-static-test-2/wp-content/uploads/2024/06/image.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center; background-attachment: scroll; }</style></div>
+
+
+
+<div id="block-05a315-b2f3-4c" class="wp-block-gutenbee-divider block-05a315-b2f3-4c align-center" style="height:45px"><div class="wp-block-gutenbee-divider-inner" style="border-top-style:solid;border-top-width:6px;border-top-color:#000000;width:100%"></div></div>
+
+
+
+<div id="block-861311-6f2c-43" class="wp-block-gutenbee-iconbox block-861311-6f2c-43 wp-block-gutenbee-iconbox-align-left"><div id="block-861311-6f2c-43-icon" class="block-861311-6f2c-43-icon gutenbee-icon-block align-left gutenbee-icon-block-default"><style>.gutenbee-icon-block.block-861311-6f2c-43-icon .gutenbee-icon-block-icon-wrap { font-size: 72px; }
+.gutenbee-icon-block.block-861311-6f2c-43-icon svg { width: 72px; height: 72px; }</style><span class="gutenbee-icon-block-icon-wrap" style="background-color:transparent;border-color:transparent;width:auto;height:auto;border-width:3px"><svg viewBox="0 0 24 24" class="" preserveAspectRatio="xMidYMid meet"><path fill="#5c6671" d="M14 9.021c0 2.189-.509 3.13-.567 3.23a.5.5 0 01-.867-.497c.011-.021.435-.831.435-2.733 0-1.266-1.309-2.021-3.5-2.021a.5.5 0 01-.5-.479c-.003-.076-.066-1.861.891-2.859.421-.439.962-.662 1.608-.662a.5.5 0 010 1c-.368 0-.658.116-.887.354-.402.418-.552 1.144-.599 1.66 2.473.136 3.985 1.262 3.985 3.007zM24 8.5a3.475 3.475 0 01-2.167 3.222c-.456 2.058-1.836 3.706-3.645 4.584a.482.482 0 01-.177.081 6.704 6.704 0 01-2.76.614 6.769 6.769 0 01-1.515-.172c-.306.639-.865 1.231-1.603 1.731l-.003.002c-1.393 2.243-2.138 5.038-2.146 5.066a.5.5 0 01-.483.373h-2a.498.498 0 01-.488-.607c.022-.103.471-2.148.822-3.414-.127.009-.249.005-.373.008-.068.002-.141.016-.208.016-.059 0-.115-.006-.174-.008-.051-.001-.101-.005-.151-.007a7.15 7.15 0 01-.579-.045l-.188-.026a6.185 6.185 0 01-.695-.142 5.106 5.106 0 01-.418-.132c-.068-.025-.137-.048-.202-.075a4.548 4.548 0 01-.358-.17c-.062-.033-.126-.063-.185-.098a3.225 3.225 0 01-.305-.211c-.052-.039-.107-.075-.155-.116a2.822 2.822 0 01-.26-.265c-.035-.04-.077-.076-.11-.118a2.315 2.315 0 01-.27-.435 2.047 2.047 0 01-.143-.423c-.023-.098-.029-.198-.038-.298-.003-.041-.012-.082-.012-.123a2.353 2.353 0 01.147-.858 3.757 3.757 0 01-3.156-3.703c0-1.178.568-2.285 1.508-2.988a5.34 5.34 0 01-.508-2.262c0-3.033 2.467-5.5 5.5-5.5.128 0 .253.011.376.026A4.703 4.703 0 0110.752.001c1.681 0 3.232.902 4.081 2.337a4.342 4.342 0 011.669-.337 4.485 4.485 0 014.231 3.008 3.504 3.504 0 013.269 3.492zM7.413 14.35a7.821 7.821 0 00-1.257.493 1.55 1.55 0 01.362 0c1.27.152 2.306.839 2.918 1.935a.5.5 0 11-.873.487c-.579-1.037-1.496-1.349-2.164-1.429-.972-.116-1.779.206-2.039.468-.188.274-.366.635-.351 1.015l.002.025c.008.129.036.259.096.388.062.132.152.258.266.375.018.019.043.034.063.052.1.094.212.184.343.265.043.027.095.049.141.074a3.3 3.3 0 00.368.173c.085.033.177.061.269.089a4.686 4.686 0 00.967.195c.164.018.331.032.504.038.073.002.149 0 .223 0 .184 0 .37-.001.561-.015.099-.007.202-.024.303-.036.164-.018.326-.033.493-.062h.015a8.819 8.819 0 001.026-.244 7.306 7.306 0 001.836-.846l.002-.003c.574-.375 1.001-.798 1.252-1.223a1.945 1.945 0 00.205-.465c.001-.005.006-.009.007-.014a1.168 1.168 0 00-.061-.814c-.348-.745-1.557-1.274-3.141-1.274a8.28 8.28 0 00-2.338.354zm3.12 5.034a9.32 9.32 0 01-.661.225c-.319.095-.634.151-.95.211l-.001.001c-.241.768-.603 2.32-.797 3.179h.998a23.86 23.86 0 011.411-3.616zM23 8.5A2.502 2.502 0 0020.509 6l-.12.014-.011-.001A2.497 2.497 0 0018 8.501a.5.5 0 01-1 0c0-.201.027-.394.059-.586a2.036 2.036 0 01-.538.086c-.666 0-2.44-.634-2.849-1.862a.5.5 0 11.948-.316c.219.656 1.476 1.179 1.901 1.179.253 0 .727-.21 1.038-.382a3.503 3.503 0 012.135-1.515 3.485 3.485 0 00-3.193-2.103 3.44 3.44 0 00-1.651.435.503.503 0 01-.693-.233 3.756 3.756 0 00-3.406-2.202 3.72 3.72 0 00-3.199 1.822c-.014.022-.039.031-.055.05-.005.011-.005.022-.011.033a3.752 3.752 0 00.233 4.053.499.499 0 11-.807.588 4.714 4.714 0 01-.429-.725c-.308.088-.701.245-.943.513a.499.499 0 11-.743-.668c.394-.438.941-.67 1.353-.793a4.731 4.731 0 01-.148-1.123c0-.595.115-1.183.33-1.733-2.401.092-4.33 2.059-4.33 4.483 0 .608.137 1.205.395 1.782.433-.169.888-.282 1.355-.282.498 0 .975.102 1.417.281l.028.01a3.736 3.736 0 011.911 1.782.5.5 0 01-.895.448 2.734 2.734 0 00-.878-1c-.373 1.081-1.329 2.169-1.463 2.316a.501.501 0 01-.706.034.5.5 0 01-.034-.706c.444-.49 1.102-1.396 1.298-2.07a2.773 2.773 0 00-.678-.094c-.451 0-.88.105-1.277.314l-.009.003c-.021.017-.036.038-.06.052a2.75 2.75 0 00-1.404 2.381 2.75 2.75 0 002.699 2.745c.719-.899 1.933-1.658 3.428-2.103a9.405 9.405 0 011.741-.332 2.927 2.927 0 01.08-1.44c-.19-.62-.535-1.498-.803-1.766a.5.5 0 01.707-.707c.315.315.588.9.786 1.414.194-.181.411-.347.67-.482a.5.5 0 11.463.887c-.98.512-1.058 1.346-.894 2.051 1.848.032 3.382.68 3.919 1.83.148.318.209.655.194.999.414.093.833.155 1.258.155.834 0 1.622-.196 2.343-.52A2.7 2.7 0 0018 14.066c0-.438-.154-1.088-.484-1.624-.501.856-1.259 1.566-2.047 1.566a.5.5 0 010-1c.345 0 .928-.534 1.309-1.294a1.504 1.504 0 00-.754-.211.5.5 0 010-1c.661 0 1.208.251 1.653.626.03.02.061.039.085.064.811.734 1.238 1.918 1.238 2.872 0 .212-.023.407-.054.593a5.73 5.73 0 001.959-3.394.501.501 0 01.342-.39A2.484 2.484 0 0023 8.503zm-2.131-.482C20.223 8.193 19 8.937 19 10.5a.5.5 0 001 0c0-1.16 1.018-1.485 1.131-1.518a.5.5 0 10-.261-.965z"></path></svg></span></div><div class="wp-block-gutenbee-iconbox-content"><h3 class="wp-block-gutenbee-iconbox-title">Icon box?</h3><p class="wp-block-gutenbee-iconbox-text">Oh I see</p></div></div>
+
+
+
+<div id="block-22f336-fd62-46" class="wp-block-gutenbee-countup block-22f336-fd62-46 wp-block-gutenbee-countup-align-left"><style>.wp-block-gutenbee-countup.block-22f336-fd62-46 .wp-block-gutenbee-countup-number { font-size: 16px; }
+.wp-block-gutenbee-countup.block-22f336-fd62-46 .wp-block-gutenbee-countup-title { font-size: 16px; }</style><span class="wp-block-gutenbee-countup-number" data-start="0" data-end="999" data-animation-duration="5" data-separator="," data-inviewport="true">0</span><p class="wp-block-gutenbee-countup-title">Counting&#8230;</p></div>
+
+
+
+<div id="block-c6d403-e32d-49" class="wp-block-gutenbee-progress-bar block-c6d403-e32d-49"><style>.wp-block-gutenbee-progress-bar.block-c6d403-e32d-49 .wp-block-gutenbee-progress-bar-title { font-size: 16px; }
+.wp-block-gutenbee-progress-bar.block-c6d403-e32d-49 .wp-block-gutenbee-progress-bar-inner-title { font-size: 14px; }</style><p class="wp-block-gutenbee-progress-bar-title">Yay progress bars!</p><div class="wp-block-gutenbee-progress-bar-outer"><div class="wp-block-gutenbee-progress-bar-inner" style="width:86%"><span class="wp-block-gutenbee-progress-bar-percentage">86%</span></div></div></div>
+
+
+
+<div id="block-bdf123-cb8a-4c" class="wp-block-gutenbee-image-comparison block-bdf123-cb8a-4c"><div class="wp-block-gutenbee-comparison-wrap" data-offset="50"><img decoding="async" class="img-1" src="/wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74-768x768.jpg" alt=""/><img decoding="async" class="img-2" src="/wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y-768x1152.jpg" alt=""/></div></div>
+
+
+
+<div id="block-0fe3b2-3354-4c" class="wp-block-gutenbee-countdown block-0fe3b2-3354-4c" data-date="2024-06-29T11:08:53"><style>.wp-block-gutenbee-countdown.block-0fe3b2-3354-4c .gutenbee-countdown-number { font-size: 24px; }
+.wp-block-gutenbee-countdown.block-0fe3b2-3354-4c .gutenbee-countdown-label { font-size: 13px; }</style><div class="wp-block-gutenbee-countdown-wrap"><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-days"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-days">Days</p></div><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-hours"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-hours">Hours</p></div><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-minutes"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-minutes">Minutes</p></div><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-seconds"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-seconds">Seconds</p></div></div></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1475</post-id>	</item>
+		<item>
+		<title>Link Testing</title>
+		<link>/wp-static-test-2/blog/uncategorized/1472/</link>
+		
+		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2024 15:57:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1472</guid>
+
+					<description><![CDATA[Got this new visual link thing, let&#8217;s see how it works&#8230; Here&#8217;s a normal link. Ok, now is visual different? This is s visual link. Oh so it&#8217;s entirely separate? Still useful I suppose.]]></description>
+										<content:encoded><![CDATA[
+<p>Got this new visual link thing, let&#8217;s see how it works&#8230;</p>
+
+
+
+<p>Here&#8217;s a normal <a aria-label=" (opens in a new tab)" href="https://indieweb.org/colophon" target="_blank" rel="noreferrer noopener" class="ek-link">link</a>. </p>
+
+
+
+<p>Ok, now is visual different? This is s visual link.</p>
+
+
+<div class="vlp-link-container vlp-template-default wp-block-visual-link-preview-link">
+	<a href="https://indieweb.org/colophon" class="vlp-link" title="colophon" rel="nofollow" target="_blank"></a>		<div class="vlp-link-image-container">
+		<div class="vlp-link-image">
+			<img decoding="async" src="https://www.boffosocko.com/logo.jpg" style="max-width: 150px; max-height: 150px" />		</div>
+	</div>
+		<div class="vlp-link-text-container">
+				<div class="vlp-link-title">
+			colophon		</div>
+						<div class="vlp-link-summary">
+			A colophon is a page or section, like a footer, of a site that describes how the site is made, with what tools, supporting what technologies.		</div>
+			</div>
+</div>
+
+
+
+<p>Oh so it&#8217;s entirely separate?  Still useful I suppose.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1472</post-id>	</item>
+		<item>
 		<title>Test Commenting system</title>
 		<link>/wp-static-test-2/blog/uncategorized/test-commenting-system/</link>
 		
@@ -288,55 +388,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1245</post-id>	</item>
-		<item>
-		<title>Another bar</title>
-		<link>/wp-static-test-2/blog/uncategorized/another-bar/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Tue, 04 Jun 2024 22:28:29 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1237</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div style="font-style:normal;font-weight:600" class="wp-block-pono-press-juno has-xx-large-font-size"><div class="juno juno-container" data-shape-type="circle" data-enable-text="true" data-percentile="85" data-shape-animation="linear" data-animation-duration="0" data-size="29" data-text-color="#42505C" data-fill-color="#fff" data-stroke-color="#ffbb00" data-stroke-width="17" data-trail-color="#abb8c3" data-trail-width="17"></div></div>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1237</post-id>	</item>
-		<item>
-		<title>Bootstrap</title>
-		<link>/wp-static-test-2/blog/uncategorized/bootstrap/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Tue, 04 Jun 2024 22:24:43 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1235</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-
-
-
-
-
-
-<div class="wp-block-areoi-icon areoi-icon"><i class="text-primary bi-activity " style="font-size:24px"></i></div>
-
-
-
-
-
-
-
-<p>Testing a toast</p>
-
-
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1235</post-id>	</item>
 	</channel>
 </rss>
