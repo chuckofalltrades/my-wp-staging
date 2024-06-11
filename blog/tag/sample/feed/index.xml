@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -26,7 +23,7 @@
 		<title>What did I like about Otter?</title>
 		<link>/wp-static-test-2/blog/uncategorized/what-did-i-like-about-otter/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[nachos]]></category>
@@ -42,12 +39,12 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1270</post-id>	</item>
+			</item>
 		<item>
 		<title>Tooltip test</title>
 		<link>/wp-static-test-2/blog/uncategorized/tooltip-test/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 19:44:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[sample]]></category>
@@ -61,12 +58,12 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1259</post-id>	</item>
+			</item>
 		<item>
 		<title>This Is a Sample Post</title>
 		<link>/wp-static-test-2/blog/uncategorized/this-is-a-sample-post/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 02 May 2024 21:20:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[meta]]></category>
@@ -116,12 +113,12 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1034</post-id>	</item>
+			</item>
 		<item>
 		<title>Yet Another Sample, But This Time We&#8217;ll Call It an Example</title>
 		<link>/wp-static-test-2/blog/uncategorized/yet-another-sample-but-this-time-well-call-it-an-example/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 01 May 2024 21:24:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[example]]></category>
@@ -184,6 +181,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1037</post-id>	</item>
+			</item>
 	</channel>
 </rss>

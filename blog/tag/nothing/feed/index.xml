@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -26,7 +23,7 @@
 		<title>What did I like about Otter?</title>
 		<link>/wp-static-test-2/blog/uncategorized/what-did-i-like-about-otter/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[nachos]]></category>
@@ -42,6 +39,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1270</post-id>	</item>
+			</item>
 	</channel>
 </rss>

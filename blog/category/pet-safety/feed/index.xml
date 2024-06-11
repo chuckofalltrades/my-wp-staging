@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -26,7 +23,7 @@
 		<title>Traveling with Pets: Tips for a Smooth Journey</title>
 		<link>/wp-static-test-2/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Sat, 11 May 2024 21:36:08 +0000</pubDate>
 				<category><![CDATA[Cat Care]]></category>
 		<category><![CDATA[Dog Care]]></category>
@@ -100,6 +97,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1056</post-id>	</item>
+			</item>
 	</channel>
 </rss>

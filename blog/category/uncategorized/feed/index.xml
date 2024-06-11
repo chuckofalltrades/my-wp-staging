@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +12,7 @@
 	<atom:link href="/wp-static-test-2/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp-static-test-2/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
-	<lastBuildDate>Mon, 10 Jun 2024 16:09:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 18:15:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,10 +20,229 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>More timelines</title>
+		<link>/wp-static-test-2/blog/uncategorized/more-timelines/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 18:15:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1569</guid>
+
+					<description><![CDATA[[weblizar_timeline]]]></description>
+										<content:encoded><![CDATA[
+<p>[weblizar_timeline]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Yet another timeline</title>
+		<link>/wp-static-test-2/blog/uncategorized/yet-another-timeline/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 18:10:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1565</guid>
+
+					<description><![CDATA[[timeline_awesome id="1564"]]]></description>
+										<content:encoded><![CDATA[
+<p><code>[timeline_awesome id="1564"]</code></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title></title>
+		<link>/wp-static-test-2/blog/uncategorized/1562/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 18:06:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1562</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p>[post-timeline layout=&#8221;vertical&#8221; skin-type=&#8221;light&#8221; tagline-color=&#8221;#e11619&#8243; anim-type=&#8221;fadeUpLeft-Right&#8221; line-style=&#8221;solid&#8221; bg-color=&#8221;#f5f5f5&#8243; nav-status=&#8221;on&#8221; nav-color=&#8221;#4285f4&#8243; nav-max=&#8221;5&#8243; nav-offset=&#8221;100&#8243; sort=&#8221;DESC&#8221; type=&#8221;date&#8221; sort-by=&#8221;publish_date&#8221; post-desc=&#8221;excerpt&#8221; pagination=&#8221;off&#8221; date-format=&#8221;M&#8221;]</p>
+
+
+
+<div class="wp-block-post-timeline-block main-timeline post-timeline" style="background-color:#fffff"><div class="container"><div class="ptl-posts-cont p-tl-cont ptl-front-cont ptl-cont"><div class="ptl-container"><div class="ptl-row justify-content-center"><div class="pol-md-11 pol-sm-12"><div class="ptl-post-block-head"><h3 class="ptl-post-heading" style="color:#4285f4">National Holidays</h3></div><div class="ptl-content-sec"><span class="ptl-center-line" style="background:#4285f4"></span><div class="ptl-sec-yr" style="background:#4285f4">Start</div><div class="timeline-section ptl-row no-gutters odd"><div class="cir-sec zoomIn" style="background:#fff;border-color:#778beb"><div class="ptl-icon-cont"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="flag-usa" class="svg-inline--fa fa-flag-usa " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="color:#778beb"><path fill="currentColor" d="M544 61.63V30.74c0-25-28.81-37.99-53.17-26.49C306.3 91.5 321.5-62.25 96 32.38V32c0-17.75-14.25-32-32-32S32 14.25 32 32L31.96 496c0 8.75 7.25 16 15.1 16H80C88.75 512 96 504.8 96 496V384c200-92.25 238.8 53.25 428.1-23.12C536.3 355.9 544 344.4 544 332.1V296.1c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25-.125-74.17-8.5-107.7-16.62C254 288.5 195.3 274.8 96 314.8v-34.5c102-37.63 166.5-22.75 228.4-7.625C385.1 287.8 444.7 301.4 544 261.5V200c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25 0-74.17-8.375-107.7-16.5C254 192.5 195.3 178.8 96 218.8v-34.5c102-37.5 166.5-22.62 228.4-7.5C385.1 191.8 444.7 205.4 544 165.6V96.75c-57.75 23.5-100.4 31.38-135.8 31.38c-62.96 0-118.9-27.09-120.2-27.38V67.5C331.9 78.94 390.1 128.3 544 61.63zM160 136c-8.75 0-16-7.125-16-16s7.25-16 16-16s16 7.125 16 16S168.8 136 160 136zM160 72c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S168.8 72 160 72zM224 128C215.3 128 208 120.9 208 112S215.3 96 224 96s16 7 16 16C240 120.8 232.8 128 224 128zM224 64.25c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S232.8 64.25 224 64.25z"></path></svg></div></div><div class="pol-md-6"><div class="ptl-date-sec"><h3 class="date fadeIn" style="color:#778beb"><strong>17 Jan</strong></h3></div></div><div class="pol-md-6 data-box"><div class="ti-box"><div class="tag-span"><h2 class="ptl-p-title" style="background-color:#778beb">Martin Luther King Jr. Day</h2><span class="ptl-h2-span" style="background-color:#778beb"></span></div><div class="p-collapse in"><div class="ptl-cont-box"><div class="ptl-img-cont"><img decoding="async" class="ptl-p-img" src="/wp-static-test-2/wp-content/plugins/post-timeline/admin/blocks/assets/images/Martin-Luther-King-Jr.-Day.jpg" alt="Image"/></div><div class="ptl-desc"><div class="ptl-content">Martin Luther King Jr. Day is a federal holiday in the United States that is observed to honor the achievements of Martin Luther King</div></div></div></div></div></div></div><div class="timeline-section ptl-row no-gutters even"><div class="cir-sec zoomIn" style="background:#fff;border-color:#f5cd79"><div class="ptl-icon-cont"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="flag-usa" class="svg-inline--fa fa-flag-usa " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="color:#f5cd79"><path fill="currentColor" d="M544 61.63V30.74c0-25-28.81-37.99-53.17-26.49C306.3 91.5 321.5-62.25 96 32.38V32c0-17.75-14.25-32-32-32S32 14.25 32 32L31.96 496c0 8.75 7.25 16 15.1 16H80C88.75 512 96 504.8 96 496V384c200-92.25 238.8 53.25 428.1-23.12C536.3 355.9 544 344.4 544 332.1V296.1c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25-.125-74.17-8.5-107.7-16.62C254 288.5 195.3 274.8 96 314.8v-34.5c102-37.63 166.5-22.75 228.4-7.625C385.1 287.8 444.7 301.4 544 261.5V200c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25 0-74.17-8.375-107.7-16.5C254 192.5 195.3 178.8 96 218.8v-34.5c102-37.5 166.5-22.62 228.4-7.5C385.1 191.8 444.7 205.4 544 165.6V96.75c-57.75 23.5-100.4 31.38-135.8 31.38c-62.96 0-118.9-27.09-120.2-27.38V67.5C331.9 78.94 390.1 128.3 544 61.63zM160 136c-8.75 0-16-7.125-16-16s7.25-16 16-16s16 7.125 16 16S168.8 136 160 136zM160 72c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S168.8 72 160 72zM224 128C215.3 128 208 120.9 208 112S215.3 96 224 96s16 7 16 16C240 120.8 232.8 128 224 128zM224 64.25c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S232.8 64.25 224 64.25z"></path></svg></div></div><div class="pol-md-6"><div class="ptl-date-sec"><h3 class="date fadeIn" style="color:#f5cd79"><strong>20 Feb</strong></h3></div></div><div class="pol-md-6 data-box fadeIn panim"><div class="ti-box"><div class="tag-span"><h2 class="ptl-p-title" style="background-color:#f5cd79">Washington’s Birthday</h2><span class="ptl-h2-span" style="background-color:#f5cd79"></span></div><div class="p-collapse in"><div class="ptl-cont-box"><div class="ptl-img-cont"><img decoding="async" class="ptl-p-img" src="/wp-static-test-2/wp-content/plugins/post-timeline/admin/blocks/assets/images/Washingtons-Birthday.jpg" alt="Image"/></div><div class="ptl-desc"><div class="ptl-content">Washington’s Birthday is a holiday in the United States which is celebrated to honor both George Washington and Abraham Lincoln</div></div></div></div></div></div></div><div class="timeline-section ptl-row no-gutters odd"><div class="cir-sec zoomIn" style="background:#fff;border-color:#74b9ff"><div class="ptl-icon-cont"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="flag-usa" class="svg-inline--fa fa-flag-usa " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="color:#74b9ff"><path fill="currentColor" d="M544 61.63V30.74c0-25-28.81-37.99-53.17-26.49C306.3 91.5 321.5-62.25 96 32.38V32c0-17.75-14.25-32-32-32S32 14.25 32 32L31.96 496c0 8.75 7.25 16 15.1 16H80C88.75 512 96 504.8 96 496V384c200-92.25 238.8 53.25 428.1-23.12C536.3 355.9 544 344.4 544 332.1V296.1c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25-.125-74.17-8.5-107.7-16.62C254 288.5 195.3 274.8 96 314.8v-34.5c102-37.63 166.5-22.75 228.4-7.625C385.1 287.8 444.7 301.4 544 261.5V200c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25 0-74.17-8.375-107.7-16.5C254 192.5 195.3 178.8 96 218.8v-34.5c102-37.5 166.5-22.62 228.4-7.5C385.1 191.8 444.7 205.4 544 165.6V96.75c-57.75 23.5-100.4 31.38-135.8 31.38c-62.96 0-118.9-27.09-120.2-27.38V67.5C331.9 78.94 390.1 128.3 544 61.63zM160 136c-8.75 0-16-7.125-16-16s7.25-16 16-16s16 7.125 16 16S168.8 136 160 136zM160 72c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S168.8 72 160 72zM224 128C215.3 128 208 120.9 208 112S215.3 96 224 96s16 7 16 16C240 120.8 232.8 128 224 128zM224 64.25c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S232.8 64.25 224 64.25z"></path></svg></div></div><div class="pol-md-6"><div class="ptl-date-sec"><h3 class="date fadeIn" style="color:#74b9ff"><strong>29 May</strong></h3></div></div><div class="pol-md-6 data-box"><div class="ti-box"><div class="tag-span"><h2 class="ptl-p-title" style="background-color:#74b9ff">Memorial Day</h2><span class="ptl-h2-span" style="background-color:#74b9ff"></span></div><div class="p-collapse in"><div class="ptl-cont-box"><div class="ptl-img-cont"><img decoding="async" class="ptl-p-img" src="/wp-static-test-2/wp-content/plugins/post-timeline/admin/blocks/assets/images/Memorial-Day.jpg" alt="Image"/></div><div class="ptl-desc"><div class="ptl-content">Memorial Day is an American Holiday that is observed to honor the fallen U.S. military personnel.</div></div></div></div></div></div></div><div class="ptl-sec-yr ptl-last" style="background:#4285f4">End</div></div></div></div></div></div></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Another timeline</title>
+		<link>/wp-static-test-2/blog/uncategorized/another-timeline/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 18:01:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1558</guid>
+
+					<description><![CDATA[[timeline_feed id=1]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>[timeline_feed id=1]</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title></title>
+		<link>/wp-static-test-2/blog/uncategorized/1553/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 17:47:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1553</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-cgb-timeline twp-timeline-wrapper" id="twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac"><style>@media only screen and (max-width: 976px) {#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__marker{margin-left: 0;margin-right: 0;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__heading{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline-desc-content{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__events-new{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__date-hide.uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__day-right .uagb-timeline__arrow:after{border-right-color: #eee;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__line{left: calc( 35px / 2 );}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__author{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__link_parent{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__image a{text-align: left;}}@media only screen and (max-width: 767px) {#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__marker{margin-left: 0;margin-right: 0;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__day-new.uagb-timeline__day-left{margin-left: 10px;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__day-new.uagb-timeline__day-right{margin-left: 10px;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__heading{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline-desc-content{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__events-new{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__date-hide.uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__day-right .uagb-timeline__arrow:after{border-right-color: #eee;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__line{left: calc( 35px / 2 );}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__author{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__link_parent{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__image a{text-align: left;}}</style><div class="timeline-content-wrap uagb-timeline__center-block  uagb-timeline__arrow-center uagb-timeline__responsive-tablet uagb-timeline"><div class="main-timeline default"><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 1</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 2</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 3</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 4</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article></div></div></div>
+
+
+
+<p class="cgb-shortcode undefined"> [timeline_wp id=&#8221;1552&#8243; ] </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Jetpack worth it 2</title>
+		<link>/wp-static-test-2/blog/uncategorized/is-jetpack-worth-it-2/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 17:18:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1546</guid>
+
+					<description><![CDATA[/]]></description>
+										<content:encoded><![CDATA[
+<p>/</p>
+
+
+
+<div class="wp-story wp-block-jetpack-story"></div>
+
+
+
+<ul class="wp-block-jetpack-sharing-buttons has-normal-icon-size jetpack-sharing-buttons__services-list" id="jetpack-sharing-serivces-list">
+
+</ul>
+
+
+
+<div class="wp-block-jetpack-blogroll">
+<h3 class="wp-block-heading">Blogroll</h3>
+</div>
+
+
+
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img fetchpriority="high" decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1078" data-id="1078" src="/wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1077" data-id="1077" src="/wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1076" data-id="1076" src="/wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1066" data-id="1066" src="/wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Jetpack worth it?</title>
+		<link>/wp-static-test-2/blog/uncategorized/is-jetpack-worth-it/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 17:12:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1543</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+
+
+<div class="wp-block-jetpack-calendly"></div>
+
+
+
+<div class="wp-block-jetpack-contact-info">
+
+
+
+</div>
+
+
+
+
+
+
+
+<a class="wp-block-jetpack-google-calendar"></a>
+
+
+
+<figure class="wp-block-jetpack-image-compare"><div class="juxtapose" data-mode="horizontal"><img loading="lazy" decoding="async" id="1156" src="/wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74.jpg" alt="a close up of a lion in a field of tall grass" width="1200" height="1200" class="image-compare__image-before"/><img loading="lazy" decoding="async" id="1154" src="/wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y.jpg" alt="white butterfly resting on cat's nose" width="800" height="1200" class="image-compare__image-after"/></div></figure>
+
+
+
+
+
+<div class="wp-block-jetpack-map" data-map-style="default" data-map-details="true" data-points="[]" data-zoom="13" data-map-center="{&quot;longitude&quot;:-122.41941550000001,&quot;latitude&quot;:37.7749295}" data-marker-color="red" data-show-fullscreen-button="true"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Icon testing again</title>
+		<link>/wp-static-test-2/blog/uncategorized/icon-testing-again/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 16:51:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1538</guid>
+
+					<description><![CDATA[Ok and I&#8217;m typing and icon]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-outermost-icon-block"><div class="icon-container has-icon-color has-icon-background-color has-primary-background-color has-foreground-color rotate-90 flip-horizontal" style="background-color:#FF502D;color:#FFF;width:104px"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 10h4c.6 0 1-.4 1-1V5c0-.6-.4-1-1-1h-4c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1zm-8 4H4c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1h4c.6 0 1-.4 1-1v-4c0-.6-.4-1-1-1zm10-2.6L14.5 15l1.1 1.1 1.7-1.7c-.1 1.1-.3 2.3-.9 2.9-.3.3-.7.5-1.3.5h-4.5v1.5H15c.9 0 1.7-.3 2.3-.9 1-1 1.3-2.7 1.4-4l1.8 1.8 1.1-1.1-3.6-3.7zM6.8 9.7c.1-1.1.3-2.3.9-2.9.4-.4.8-.6 1.3-.6h4.5V4.8H9c-.9 0-1.7.3-2.3.9-1 1-1.3 2.7-1.4 4L3.5 8l-1 1L6 12.6 9.5 9l-1-1-1.7 1.7z"></path></svg></div></div>
+
+
+
+<p>Ok and I&#8217;m typing and icon <i class="icon fa fa-apple" aria-hidden="true"> </i></p>
+
+
+
+<div class="wp-block-jvm-single-icon"><i class="icon fa fa-cab" aria-hidden="true"> </i></div>
+
+
+
+<div id="block-0d515b-4533-42" class="wp-block-gutenbee-icon block-0d515b-4533-42 gutenbee-icon-block align-left gutenbee-icon-block-default"><style>.gutenbee-icon-block.block-0d515b-4533-42 .gutenbee-icon-block-icon-wrap { font-size: 40px; }
+.gutenbee-icon-block.block-0d515b-4533-42 svg { width: 40px; height: 40px; }</style><span class="gutenbee-icon-block-icon-wrap" style="background-color:transparent;border-color:transparent;width:auto;height:auto;border-width:3px"><svg viewBox="0 0 24 24" class="wp-block-gutenbee-icon-icon" preserveAspectRatio="xMidYMid meet"><path fill="#5c6671" d="M14 9.021c0 2.189-.509 3.13-.567 3.23a.5.5 0 01-.867-.497c.011-.021.435-.831.435-2.733 0-1.266-1.309-2.021-3.5-2.021a.5.5 0 01-.5-.479c-.003-.076-.066-1.861.891-2.859.421-.439.962-.662 1.608-.662a.5.5 0 010 1c-.368 0-.658.116-.887.354-.402.418-.552 1.144-.599 1.66 2.473.136 3.985 1.262 3.985 3.007zM24 8.5a3.475 3.475 0 01-2.167 3.222c-.456 2.058-1.836 3.706-3.645 4.584a.482.482 0 01-.177.081 6.704 6.704 0 01-2.76.614 6.769 6.769 0 01-1.515-.172c-.306.639-.865 1.231-1.603 1.731l-.003.002c-1.393 2.243-2.138 5.038-2.146 5.066a.5.5 0 01-.483.373h-2a.498.498 0 01-.488-.607c.022-.103.471-2.148.822-3.414-.127.009-.249.005-.373.008-.068.002-.141.016-.208.016-.059 0-.115-.006-.174-.008-.051-.001-.101-.005-.151-.007a7.15 7.15 0 01-.579-.045l-.188-.026a6.185 6.185 0 01-.695-.142 5.106 5.106 0 01-.418-.132c-.068-.025-.137-.048-.202-.075a4.548 4.548 0 01-.358-.17c-.062-.033-.126-.063-.185-.098a3.225 3.225 0 01-.305-.211c-.052-.039-.107-.075-.155-.116a2.822 2.822 0 01-.26-.265c-.035-.04-.077-.076-.11-.118a2.315 2.315 0 01-.27-.435 2.047 2.047 0 01-.143-.423c-.023-.098-.029-.198-.038-.298-.003-.041-.012-.082-.012-.123a2.353 2.353 0 01.147-.858 3.757 3.757 0 01-3.156-3.703c0-1.178.568-2.285 1.508-2.988a5.34 5.34 0 01-.508-2.262c0-3.033 2.467-5.5 5.5-5.5.128 0 .253.011.376.026A4.703 4.703 0 0110.752.001c1.681 0 3.232.902 4.081 2.337a4.342 4.342 0 011.669-.337 4.485 4.485 0 014.231 3.008 3.504 3.504 0 013.269 3.492zM7.413 14.35a7.821 7.821 0 00-1.257.493 1.55 1.55 0 01.362 0c1.27.152 2.306.839 2.918 1.935a.5.5 0 11-.873.487c-.579-1.037-1.496-1.349-2.164-1.429-.972-.116-1.779.206-2.039.468-.188.274-.366.635-.351 1.015l.002.025c.008.129.036.259.096.388.062.132.152.258.266.375.018.019.043.034.063.052.1.094.212.184.343.265.043.027.095.049.141.074a3.3 3.3 0 00.368.173c.085.033.177.061.269.089a4.686 4.686 0 00.967.195c.164.018.331.032.504.038.073.002.149 0 .223 0 .184 0 .37-.001.561-.015.099-.007.202-.024.303-.036.164-.018.326-.033.493-.062h.015a8.819 8.819 0 001.026-.244 7.306 7.306 0 001.836-.846l.002-.003c.574-.375 1.001-.798 1.252-1.223a1.945 1.945 0 00.205-.465c.001-.005.006-.009.007-.014a1.168 1.168 0 00-.061-.814c-.348-.745-1.557-1.274-3.141-1.274a8.28 8.28 0 00-2.338.354zm3.12 5.034a9.32 9.32 0 01-.661.225c-.319.095-.634.151-.95.211l-.001.001c-.241.768-.603 2.32-.797 3.179h.998a23.86 23.86 0 011.411-3.616zM23 8.5A2.502 2.502 0 0020.509 6l-.12.014-.011-.001A2.497 2.497 0 0018 8.501a.5.5 0 01-1 0c0-.201.027-.394.059-.586a2.036 2.036 0 01-.538.086c-.666 0-2.44-.634-2.849-1.862a.5.5 0 11.948-.316c.219.656 1.476 1.179 1.901 1.179.253 0 .727-.21 1.038-.382a3.503 3.503 0 012.135-1.515 3.485 3.485 0 00-3.193-2.103 3.44 3.44 0 00-1.651.435.503.503 0 01-.693-.233 3.756 3.756 0 00-3.406-2.202 3.72 3.72 0 00-3.199 1.822c-.014.022-.039.031-.055.05-.005.011-.005.022-.011.033a3.752 3.752 0 00.233 4.053.499.499 0 11-.807.588 4.714 4.714 0 01-.429-.725c-.308.088-.701.245-.943.513a.499.499 0 11-.743-.668c.394-.438.941-.67 1.353-.793a4.731 4.731 0 01-.148-1.123c0-.595.115-1.183.33-1.733-2.401.092-4.33 2.059-4.33 4.483 0 .608.137 1.205.395 1.782.433-.169.888-.282 1.355-.282.498 0 .975.102 1.417.281l.028.01a3.736 3.736 0 011.911 1.782.5.5 0 01-.895.448 2.734 2.734 0 00-.878-1c-.373 1.081-1.329 2.169-1.463 2.316a.501.501 0 01-.706.034.5.5 0 01-.034-.706c.444-.49 1.102-1.396 1.298-2.07a2.773 2.773 0 00-.678-.094c-.451 0-.88.105-1.277.314l-.009.003c-.021.017-.036.038-.06.052a2.75 2.75 0 00-1.404 2.381 2.75 2.75 0 002.699 2.745c.719-.899 1.933-1.658 3.428-2.103a9.405 9.405 0 011.741-.332 2.927 2.927 0 01.08-1.44c-.19-.62-.535-1.498-.803-1.766a.5.5 0 01.707-.707c.315.315.588.9.786 1.414.194-.181.411-.347.67-.482a.5.5 0 11.463.887c-.98.512-1.058 1.346-.894 2.051 1.848.032 3.382.68 3.919 1.83.148.318.209.655.194.999.414.093.833.155 1.258.155.834 0 1.622-.196 2.343-.52A2.7 2.7 0 0018 14.066c0-.438-.154-1.088-.484-1.624-.501.856-1.259 1.566-2.047 1.566a.5.5 0 010-1c.345 0 .928-.534 1.309-1.294a1.504 1.504 0 00-.754-.211.5.5 0 010-1c.661 0 1.208.251 1.653.626.03.02.061.039.085.064.811.734 1.238 1.918 1.238 2.872 0 .212-.023.407-.054.593a5.73 5.73 0 001.959-3.394.501.501 0 01.342-.39A2.484 2.484 0 0023 8.503zm-2.131-.482C20.223 8.193 19 8.937 19 10.5a.5.5 0 001 0c0-1.16 1.018-1.485 1.131-1.518a.5.5 0 10-.261-.965z"></path></svg></span></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Which animated did I choose?</title>
+		<link>/wp-static-test-2/blog/uncategorized/which-animated-did-i-choose/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 16:00:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1535</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Gutenbee Block Testing</title>
 		<link>/wp-static-test-2/blog/uncategorized/gutenbee-block-testing/</link>
 		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Mon, 10 Jun 2024 16:09:04 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/wp-static-test-2/?p=1475</guid>
@@ -78,315 +294,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1475</post-id>	</item>
-		<item>
-		<title>Link Testing</title>
-		<link>/wp-static-test-2/blog/uncategorized/1472/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Mon, 10 Jun 2024 15:57:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1472</guid>
-
-					<description><![CDATA[Got this new visual link thing, let&#8217;s see how it works&#8230; Here&#8217;s a normal link. Ok, now is visual different? This is s visual link. Oh so it&#8217;s entirely separate? Still useful I suppose.]]></description>
-										<content:encoded><![CDATA[
-<p>Got this new visual link thing, let&#8217;s see how it works&#8230;</p>
-
-
-
-<p>Here&#8217;s a normal <a aria-label=" (opens in a new tab)" href="https://indieweb.org/colophon" target="_blank" rel="noreferrer noopener" class="ek-link">link</a>. </p>
-
-
-
-<p>Ok, now is visual different? This is s visual link.</p>
-
-
-<div class="vlp-link-container vlp-template-default wp-block-visual-link-preview-link">
-	<a href="https://indieweb.org/colophon" class="vlp-link" title="colophon" rel="nofollow" target="_blank"></a>		<div class="vlp-link-image-container">
-		<div class="vlp-link-image">
-			<img decoding="async" src="https://www.boffosocko.com/logo.jpg" style="max-width: 150px; max-height: 150px" />		</div>
-	</div>
-		<div class="vlp-link-text-container">
-				<div class="vlp-link-title">
-			colophon		</div>
-						<div class="vlp-link-summary">
-			A colophon is a page or section, like a footer, of a site that describes how the site is made, with what tools, supporting what technologies.		</div>
-			</div>
-</div>
-
-
-
-<p>Oh so it&#8217;s entirely separate?  Still useful I suppose.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1472</post-id>	</item>
-		<item>
-		<title>Test Commenting system</title>
-		<link>/wp-static-test-2/blog/uncategorized/test-commenting-system/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Fri, 07 Jun 2024 21:39:46 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1458</guid>
-
-					<description><![CDATA[This is using the Cusdis privacy-first commenting platform. https://cusdis.com/]]></description>
-										<content:encoded><![CDATA[
-<p>This is using the Cusdis privacy-first commenting platform.  <a href="https://cusdis.com/">https://cusdis.com/</a></p>
-
-
-
-<div class="wp-block-group has-foreground-color has-text-color has-link-color wp-elements-4719c3a597128b24c109b13a0448cd26 has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="fb932750-df76-4288-8b33-7f730e3f56f9"
-  data-page-id="{{ PAGE_ID }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-
-</div>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1458</post-id>	</item>
-		<item>
-		<title>Animated text text.</title>
-		<link>/wp-static-test-2/blog/uncategorized/animated-text-text/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Fri, 07 Jun 2024 21:11:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1453</guid>
-
-					<description><![CDATA[I have a few that do this I think. It worked once I guess?]]></description>
-										<content:encoded><![CDATA[
-<p>I have a few that do this I think.</p>
-
-
-		<div class='wp-block-atb-animated-text  align' id='atbAnimatedText-c2cf08c8-4' data-attributes='{&quot;cId&quot;:&quot;c2cf08c8-4&quot;,&quot;inEffect&quot;:&quot;flip&quot;,&quot;content&quot;:&quot;This one is called animated text&quot;,&quot;typography&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:36,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;color&quot;:&quot;rgba(255, 255, 255, 1)&quot;,&quot;align&quot;:&quot;&quot;,&quot;loop&quot;:true,&quot;animateIn&quot;:&quot;char&quot;,&quot;inSequence&quot;:&quot;default&quot;,&quot;outEffect&quot;:&quot;rollOut&quot;,&quot;outSequence&quot;:&quot;shuffle&quot;,&quot;textAlign&quot;:&quot;center&quot;,&quot;background&quot;:{&quot;color&quot;:&quot;#0000&quot;},&quot;padding&quot;:{&quot;vertical&quot;:&quot;15px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;border&quot;:{&quot;radius&quot;:&quot;5px&quot;},&quot;hasCustomCSS&quot;:false,&quot;customCSS&quot;:&quot;&quot;,&quot;otterConditions&quot;:[]}'></div>
-
-		
-
-
-<p>It worked once I guess?</p>
-
-
-		<div class='wp-block-ttb-text-typing  align' id='ttbTextTyping-987c7f98-6' data-attributes='{&quot;cId&quot;:&quot;987c7f98-6&quot;,&quot;isShuffle&quot;:true,&quot;prefixColor&quot;:&quot;#FFF&quot;,&quot;align&quot;:&quot;&quot;,&quot;prefixText&quot;:&quot;We create &quot;,&quot;typingContents&quot;:[{&quot;text&quot;:&quot;WordPress Plugins&quot;,&quot;color&quot;:&quot;#52c41a&quot;},{&quot;text&quot;:&quot;WordPress Themes&quot;,&quot;color&quot;:&quot;#fa8c16&quot;},{&quot;text&quot;:&quot;Drupal Modules&quot;,&quot;color&quot;:&quot;#1890ff&quot;},{&quot;text&quot;:&quot;Prestashop Modules&quot;,&quot;color&quot;:&quot;#df0067&quot;},{&quot;text&quot;:&quot;Magento Extensions&quot;,&quot;color&quot;:&quot;#f46f25&quot;},{&quot;text&quot;:&quot;Shopify Apps&quot;,&quot;color&quot;:&quot;#95bf47&quot;}],&quot;suffixText&quot;:&quot;&quot;,&quot;typeSpeed&quot;:100,&quot;startDelay&quot;:500,&quot;backSpeed&quot;:75,&quot;backDelay&quot;:500,&quot;isFadeOut&quot;:false,&quot;fadeOutDelay&quot;:500,&quot;isLoop&quot;:true,&quot;loopCount&quot;:0,&quot;isCursor&quot;:true,&quot;cursorChar&quot;:&quot;|&quot;,&quot;textAlign&quot;:&quot;center&quot;,&quot;background&quot;:{&quot;color&quot;:&quot;#0000&quot;},&quot;padding&quot;:{&quot;vertical&quot;:&quot;10px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;prefixTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;typingContentsTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18},&quot;fontWeight&quot;:600},&quot;suffixTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;suffixColor&quot;:&quot;#333&quot;,&quot;hasCustomCSS&quot;:false,&quot;customCSS&quot;:&quot;&quot;,&quot;otterConditions&quot;:[]}'></div>
-
-		]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1453</post-id>	</item>
-		<item>
-		<title>What did I like about Otter?</title>
-		<link>/wp-static-test-2/blog/uncategorized/what-did-i-like-about-otter/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[nachos]]></category>
-		<category><![CDATA[nothing]]></category>
-		<category><![CDATA[sample]]></category>
-		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1270</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div id="wp-block-themeisle-blocks-circle-counter-9ba82ccc" data-percentage="68" data-duration="0" data-height="127" data-stroke-width="15" class="wp-block-themeisle-blocks-circle-counter"><div class="wp-block-themeisle-blocks-circle-counter-title__area"><span class="wp-block-themeisle-blocks-circle-counter-title__value">Skill</span></div><div class="wp-block-themeisle-blocks-circle-counter__bar"></div></div>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1270</post-id>	</item>
-		<item>
-		<title>Tooltip test</title>
-		<link>/wp-static-test-2/blog/uncategorized/tooltip-test/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Wed, 05 Jun 2024 19:44:51 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[sample]]></category>
-		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1259</guid>
-
-					<description><![CDATA[In this post I will mention the turtle. Now what happens?]]></description>
-										<content:encoded><![CDATA[
-<p>In this post I will mention the turtle.  Now what happens?</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1259</post-id>	</item>
-		<item>
-		<title>And yet another footnotes test.</title>
-		<link>/wp-static-test-2/blog/uncategorized/and-yet-another-footnotes-test/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Wed, 05 Jun 2024 19:16:46 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1254</guid>
-
-					<description><![CDATA[I&#8217;m betting it&#8217;s still not what i want. And yet another block. Nope, this wants to use the formatting. ((Like this?)) And I guess maybe another. ((Like this one is another one.)) Hey. Turtle!]]></description>
-										<content:encoded><![CDATA[
-<p>I&#8217;m betting it&#8217;s still not what i want.<sup data-fn="57c1ce04-97a2-4c72-b732-5ffcce075aa2" class="fn"><a href="#57c1ce04-97a2-4c72-b732-5ffcce075aa2" id="57c1ce04-97a2-4c72-b732-5ffcce075aa2-link">1</a></sup></p>
-
-
-<ol class="wp-block-footnotes"><li id="57c1ce04-97a2-4c72-b732-5ffcce075aa2">Did it?  Probbaly not. <a href="#57c1ce04-97a2-4c72-b732-5ffcce075aa2-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="2d7d948f-ee53-45ab-ba50-635037f305c6">still up there&#8230; <a href="#2d7d948f-ee53-45ab-ba50-635037f305c6-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>
-
-
-<p>And yet another block.<sup data-fn="2d7d948f-ee53-45ab-ba50-635037f305c6" class="fn"><a href="#2d7d948f-ee53-45ab-ba50-635037f305c6" id="2d7d948f-ee53-45ab-ba50-635037f305c6-link">2</a></sup></p>
-
-
-
-<p>Nope, this wants to use the formatting. ((Like this?))</p>
-
-
-
-<p>And I guess maybe another.  ((Like this one is another one.))</p>
-
-
-
-<p>Hey.  Turtle!</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1254</post-id>	</item>
-		<item>
-		<title>Ok, do footnotes work better now?</title>
-		<link>/wp-static-test-2/blog/uncategorized/ok-do-footnotes-work-better-now/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Wed, 05 Jun 2024 19:11:47 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1250</guid>
-
-					<description><![CDATA[So like I can use this different one&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p><mfn>So like I can use this different one&#8230;</mfn></p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1250</post-id>	</item>
-		<item>
-		<title>I think a lot of this adds value where I didn&#8217;t know I needed it.</title>
-		<link>/wp-static-test-2/blog/uncategorized/i-think-a-lot-of-this-adds-value-where-i-didnt-know-i-needed-it/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Wed, 05 Jun 2024 18:50:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1247</guid>
-
-					<description><![CDATA[Which is perfect. Like when I want just this word blue? No, I can do that. But I see no abbreviations type syntax? Is that auto footnoting? Not related to what I was doing. Anyway, abbreviation glossary type syntax? None I can find. What about the *markdown*, nope! Interesting. Glyphs? Nope. Ok, featured image&#8230; Ok, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Which is perfect.</p>
-
-
-
-<p>Like when I want just this word <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">blue</mark>?  No, I can do that.</p>
-
-
-
-<p>But I see no abbreviations<sup data-fn="f4f5e661-d181-4462-b0b5-3aa500f9ce91" class="fn"><a href="#f4f5e661-d181-4462-b0b5-3aa500f9ce91" id="f4f5e661-d181-4462-b0b5-3aa500f9ce91-link">1</a></sup> type syntax?</p>
-
-
-<ol class="wp-block-footnotes"><li id="f4f5e661-d181-4462-b0b5-3aa500f9ce91">Oh, neat, footnotes! <a href="#f4f5e661-d181-4462-b0b5-3aa500f9ce91-link" aria-label="Jump to footnote reference 1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li><li id="2ad69da9-a36e-4d59-aa87-51db3d1e3c33">For the heck of it, another footnote.  Why are they way up here though? <a href="#2ad69da9-a36e-4d59-aa87-51db3d1e3c33-link" aria-label="Jump to footnote reference 2"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" />︎</a></li></ol>
-
-
-<p>Is that auto footnoting?  Not related to what I was doing.  Anyway, abbreviation glossary type syntax?  None I can find.</p>
-
-
-
-<ol>
-<li>List item</li>
-
-
-
-<li><s>Again</s>.</li>
-</ol>
-
-
-
-<p>What about the *markdown*, nope!  Interesting<sup data-fn="2ad69da9-a36e-4d59-aa87-51db3d1e3c33" class="fn"><a href="#2ad69da9-a36e-4d59-aa87-51db3d1e3c33" id="2ad69da9-a36e-4d59-aa87-51db3d1e3c33-link">2</a></sup>.</p>
-
-
-
-<p>Glyphs? Nope.</p>
-
-
-
-<p>Ok, featured image&#8230;</p>
-
-
-
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="683" height="1024" src="/wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-683x1024.jpg" alt="white and brown long fur cat" class="wp-image-1150" srcset="/wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-683x1024.jpg 683w, /wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-200x300.jpg 200w, /wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00-768x1152.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/06/zchj_2ljp00.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
-
-
-
-<p>Ok, good plugin!</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1247</post-id>	</item>
-		<item>
-		<title>Understanding Markdown: A Guide to Superscripts, Glyphs, and Formatting Techniques</title>
-		<link>/wp-static-test-2/blog/uncategorized/editor-plugin-testing/</link>
-		
-		<dc:creator><![CDATA[padmin]]></dc:creator>
-		<pubDate>Wed, 05 Jun 2024 18:42:24 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1245</guid>
-
-					<description><![CDATA[Discover the essentials of Markdown, including superscripts and unique glyphs, to enhance your text formatting and improve your writing efficiency.]]></description>
-										<content:encoded><![CDATA[
-<p>So now I <span style="background-color:#3695DA" class="has-inline-background">paragraph</span> then <abbr title="This word is not." lang="en">not</abbr>. <mark style="background-color:rgba(0, 0, 0, 0);color:#d72929" class="has-inline-color">And here we go.</mark> But then back. <sup>Superscript!</sup></p>
-
-
-
-<pre class="wp-block-code"><code><s>Like this?</s></code></pre>
-
-
-
-<p>Yet another thing that understands <strong>markdown</strong>?</p>
-
-
-
-<p></p>
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
-</div>
-
-
-
-<p>So I want a glyph&#8230; ↻</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="785" src="/wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-1024x785.jpg" alt="brown and white tabby cat" class="wp-image-1152" srcset="/wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-1024x785.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-300x230.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-768x589.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye-1536x1178.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/06/mbrfya0dyye.jpg 1565w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1245</post-id>	</item>
+			</item>
 	</channel>
 </rss>
