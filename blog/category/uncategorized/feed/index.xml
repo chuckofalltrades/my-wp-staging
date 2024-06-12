@@ -12,7 +12,7 @@
 	<atom:link href="/wp-static-test-2/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp-static-test-2/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
-	<lastBuildDate>Tue, 11 Jun 2024 18:15:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jun 2024 13:46:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,329 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>Progress Bar Test</title>
+		<link>/wp-static-test-2/blog/uncategorized/progress-bar-test/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 13:39:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1663</guid>
+
+					<description><![CDATA[Progress bar has options but no way to kill animations. Bee has no animations but fewer options.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-progress-bars-progress-bar-block"><div class="eb-parent-wrapper eb-parent-eb-progressbar-2osyt "><div class="eb-progressbar-wrapper eb-progressbar-2osyt"><div class="eb-progressbar-circle-container center"><div class="eb-progressbar eb-progressbar-circle" data-layout="circle" data-count="65" data-duration="1000"><div class="eb-progressbar-circle-pie"><div class="eb-progressbar-circle-half-left eb-progressbar-circle-half"></div><div class="eb-progressbar-circle-half-right eb-progressbar-circle-half"></div></div><div class="eb-progressbar-circle-inner"></div><div class="eb-progressbar-circle-inner-content"><div class="eb-progressbar-title">Progress Bar</div><span class="eb-progressbar-count-wrap"><span class="eb-progressbar-count">65</span><span class="postfix">%</span></span></div></div></div></div></div></div>
+
+
+
+<div id="block-a40efb-2b96-4f" class="wp-block-gutenbee-progress-bar block-a40efb-2b96-4f"><style>.wp-block-gutenbee-progress-bar.block-a40efb-2b96-4f .wp-block-gutenbee-progress-bar-title { font-size: 16px; }
+.wp-block-gutenbee-progress-bar.block-a40efb-2b96-4f .wp-block-gutenbee-progress-bar-inner-title { font-size: 14px; }</style><p class="wp-block-gutenbee-progress-bar-title">Bee Bar</p><div class="wp-block-gutenbee-progress-bar-outer"><div class="wp-block-gutenbee-progress-bar-inner" style="width:81%"><span class="wp-block-gutenbee-progress-bar-percentage">81%</span></div></div></div>
+
+
+
+<p>Progress bar has options but no way to kill animations.  Bee has no animations but fewer options.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New imagesless post</title>
+		<link>/wp-static-test-2/blog/uncategorized/new-imagesless-post/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 22:53:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1660</guid>
+
+					<description><![CDATA[Sad no images.]]></description>
+										<content:encoded><![CDATA[
+<p>Sad no images.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pelican Songs</title>
+		<link>/wp-static-test-2/blog/uncategorized/pelican-songs/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 22:28:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1649</guid>
+
+					<description><![CDATA[Once upon a time, in the serene coastal town of Pelican Bay, there lived two pelicans named Percy and Piper. Percy and Piper were inseparable from the moment they hatched. They spent their days soaring over the crystal-clear waters, diving for fish, and exploring the nooks and crannies of their beloved bay. Their bond was [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Once upon a time, in the serene coastal town of Pelican Bay, there lived two pelicans named Percy and Piper. Percy and Piper were inseparable from the moment they hatched. They spent their days soaring over the crystal-clear waters, diving for fish, and exploring the nooks and crannies of their beloved bay. Their bond was unbreakable, and they shared dreams of adventure and discovery.</p>
+
+
+
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/wp-static-test-2/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/wp-static-test-2/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /wp-static-test-2/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /wp-static-test-2/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /wp-static-test-2/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /wp-static-test-2/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>One day, as they sat on their favorite perch overlooking the sunset, Percy shared his dream of traveling to the bustling city beyond the horizon. He had heard tales of skyscrapers, endless lights, and endless opportunities. Piper, however, loved their peaceful bay and couldn’t imagine leaving. Despite their differing dreams, they promised to support each other no matter what.</p>
+
+
+
+<p>The day came when Percy, with a heavy heart, decided to chase his dreams. Piper, teary-eyed but resolute, saw him off, wishing him nothing but success. Percy’s journey to the city was filled with excitement and wonder. He marveled at the towering buildings, the hustle and bustle, and the endless possibilities.</p>
+
+
+
+<p>Percy’s charismatic nature quickly earned him a spot in the city’s entertainment scene. His quick wit and engaging personality led him to become a talk show host. “Percy’s Perch” became an overnight sensation, with celebrities and fans flocking to his show. Despite his newfound fame, Percy often found himself reminiscing about the quiet days at Pelican Bay and his dear friend Piper.</p>
+
+
+
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-static-test-2/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/wp-static-test-2/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /wp-static-test-2/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /wp-static-test-2/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /wp-static-test-2/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /wp-static-test-2/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>Meanwhile, Piper continued to live a tranquil life by the bay. She missed Percy terribly and often wondered about his adventures in the city. Piper found solace in the simple pleasures of life, like watching the sunset and enjoying the local delicacies. One day, while attending a local food festival, Piper discovered a newfound love for tacos. The festival’s taco stand became her favorite spot, and she visited it every chance she got.</p>
+
+
+
+<p>Years passed, and Percy’s fame grew. He had everything he could have ever dreamed of, yet something was missing. He longed for the simple joys he once shared with Piper. One evening, during a live broadcast, Percy shared his feelings with his audience. He spoke of his dear friend Piper, the bay, and their shared love for adventure. His heartfelt message resonated with viewers across the city, and it wasn’t long before the story reached Pelican Bay.</p>
+
+
+
+<p>Piper, while enjoying her favorite tacos, overheard some festival-goers talking about Percy’s heartfelt broadcast. Her heart swelled with emotion, and she realized that despite the distance and the years, their bond remained as strong as ever. Determined to reunite with her friend, Piper decided to visit the city and find Percy.</p>
+
+
+
+<p>With a sense of excitement and nervousness, Piper made her way to the bustling city. She felt overwhelmed by the noise and the crowds but pressed on, driven by the thought of reuniting with Percy. She finally arrived at the studio where “Percy’s Perch” was filmed. As she walked through the doors, memories of their adventures flooded her mind.</p>
+
+
+
+<p>Percy, in the middle of rehearsing for his show, was informed of a special visitor. When he turned and saw Piper standing there, his heart skipped a beat. The two friends rushed to embrace each other, tears of joy streaming down their faces. It was as if no time had passed at all.</p>
+
+
+
+<p>That night, Percy and Piper sat on the studio’s rooftop, overlooking the city lights. They shared stories of their adventures, their dreams, and their newfound love for tacos. Percy, inspired by Piper’s love for tacos, decided to incorporate a taco segment into his show. “Taco Tuesdays with Piper” became a hit, and the duo’s bond grew stronger with each passing day.</p>
+
+
+
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-static-test-2/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/wp-static-test-2/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /wp-static-test-2/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /wp-static-test-2/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /wp-static-test-2/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /wp-static-test-2/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+
+
+
+<p>Despite the ups and downs, the distance, and the years apart, Percy and Piper’s friendship endured. They realized that no matter where life took them, their bond was unbreakable. And so, with tacos in hand and smiles on their faces, Percy and Piper continued to soar, their hearts forever united by their love for each other and their love for life’s simple pleasures.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Boost Blog Engagement and SEO with Captivating Featured Images</title>
+		<link>/wp-static-test-2/blog/uncategorized/boost-blog-engagement-and-seo-with-captivating-featured-images/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 22:23:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1645</guid>
+
+					<description><![CDATA[### The Importance of Featured Images in Blogs In the rapidly advancing realm of content creation, the presentation of your blog posts can profoundly influence readership and engagement levels. While high-quality writing is indispensable, the visual elements accompanying your content are equally critical. Featured images, in particular, play a crucial role in capturing attention, enhancing [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>### The Importance of Featured Images in Blogs</p>
+
+
+
+<p>In the rapidly advancing realm of content creation, the presentation of your blog posts can profoundly influence readership and engagement levels. While high-quality writing is indispensable, the visual elements accompanying your content are equally critical. Featured images, in particular, play a crucial role in capturing attention, enhancing user experience, and elevating your blog’s visibility. Here’s why you should never underestimate the power of a well-chosen featured image.</p>
+
+
+
+<p>#### 1. **First Impressions Matter**<br>The featured image is often the first element a reader encounters when they come across your blog post, whether it&#8217;s on social media, search engine results, or your website&#8217;s homepage. A captivating image can entice users to click on your post, increasing the likelihood that they’ll stay and read your content. Amidst a flood of information, a striking image can make your blog stand out and seize attention swiftly.</p>
+
+
+
+<p>#### 2. **Enhances Visual Appeal**<br>A well-designed blog post transcends mere walls of text. Incorporating a featured image adds visual interest and breaks up the monotony of written content, making your post more engaging and easier to read. It contributes to a more aesthetically pleasing layout, which can keep readers on your page longer.</p>
+
+
+
+<p>#### 3. **Supports Your Content**<br>An effective featured image should be relevant to your blog post’s topic. It provides a visual representation of the content, helping readers grasp the subject matter at a glance. This is particularly valuable in complex or technical posts where a visual cue can make the content more accessible.</p>
+
+
+
+<p>#### 4. **Boosts SEO**<br>Search engines are increasingly sophisticated in how they index and rank content. Including a relevant featured image with proper alt text can enhance your SEO efforts. Search engines like Google often display images in their search results, offering another opportunity for your blog post to be discovered. A well-optimized image can improve your visibility and attract more organic traffic.</p>
+
+
+
+<p>#### 5. **Social Media Sharing**<br>When your blog post is shared on social media platforms, the featured image typically appears alongside the link. A compelling image can significantly increase the likelihood of your post being clicked, shared, and commented on. Social media algorithms also favor visually rich content, meaning that posts with eye-catching images are more likely to appear in users&#8217; feeds.</p>
+
+
+
+<p>#### 6. **Establishes Brand Identity**<br>Consistently using high-quality, relevant featured images can help build your brand identity. Over time, your audience will start to associate a particular style or type of image with your brand, making your content easily recognizable. This consistency can build trust and loyalty among your readers.</p>
+
+
+
+<p>#### 7. **Increases Click-Through Rates**<br>A well-chosen featured image can dramatically improve your click-through rates. Whether it’s on your homepage, in an email newsletter, or on social media, a captivating image can compel users to take action. Higher click-through rates often translate to increased engagement and better overall performance of your blog.</p>
+
+
+
+<p>#### 8. **Elicits Emotional Response**<br>Images have the power to evoke emotions and create a connection with your audience. By selecting an image that resonates emotionally with your readers, you can tap into their feelings and make your content more relatable and memorable.</p>
+
+
+
+<p>### Conclusion</p>
+
+
+
+<p>Integrating featured images into your blog posts is not just a superficial enhancement; it’s a strategic move that can significantly impact your blog’s success. From making a strong first impression to improving SEO and increasing engagement, the benefits of using high-quality featured images are manifold. So, the next time you publish a blog post, remember that a picture is worth a thousand words—and it might just be worth a thousand clicks too.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Image Comparison Plugins</title>
+		<link>/wp-static-test-2/blog/uncategorized/image-comparison-plugins/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 21:44:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1616</guid>
+
+					<description><![CDATA[I have 2 of these I think, maybe 3&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I have 2 of these I think, maybe 3&#8230;</p>
+
+
+
+<figure class="wp-block-nelio-compare-images"><div class="wp-block-nelio-compare-images__comparison-wrapper wp-block-nelio-compare-images__comparison-wrapper--horizontally" data-position="50" data-direction="horizontal"><div class="wp-block-nelio-compare-images__before-image wp-block-nelio-compare-images__before-image--horizontal"><img loading="lazy" decoding="async" width="1200" height="1200" class="wp-image-1156" src="/wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74.jpg" alt="a close up of a lion in a field of tall grass" srcset="/wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74.jpg 1200w, /wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74-150x150.jpg 150w, /wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74-300x300.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74-768x768.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74-1024x1024.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><div class="wp-block-nelio-compare-images__after-image wp-block-nelio-compare-images__after-image--horizontal" style="width:50%"><img loading="lazy" decoding="async" width="800" height="1200" class="wp-image-1154" src="/wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y.jpg" alt="white butterfly resting on cat's nose" srcset="/wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y.jpg 800w, /wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y-200x300.jpg 200w, /wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y-683x1024.jpg 683w, /wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y-768x1152.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></div><div class="wp-block-nelio-compare-images__divider wp-block-nelio-compare-images__divider--vertical"></div><div class="wp-block-nelio-compare-images__handler wp-block-nelio-compare-images__handler--vertical"></div></div></figure>
+
+
+			<div class='wp-block-icb-image-compare  align' id='icbImageCompare-c78446f2-f' data-attributes='{&quot;cId&quot;:&quot;c78446f2-f&quot;,&quot;width&quot;:&quot;50%&quot;,&quot;beforeImg&quot;:{&quot;id&quot;:1073,&quot;url&quot;:&quot;\/wp-static-test-2\/wp-content\/uploads\/2024\/05\/haberdoedas-m9ezh-Y3y9Q-unsplash-scaled.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:&quot;haberdoedas-m9ezh-Y3y9Q-unsplash&quot;},&quot;afterImg&quot;:{&quot;id&quot;:1072,&quot;url&quot;:&quot;\/wp-static-test-2\/wp-content\/uploads\/2024\/05\/shraga-kopstein-K1OvoJP1bdo-unsplash-scaled.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:&quot;shraga-kopstein-K1OvoJP1bdo-unsplash&quot;},&quot;beforeLabel&quot;:&quot;Rhino&quot;,&quot;afterLabel&quot;:&quot;Iguana&quot;,&quot;labelTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:42,&quot;tablet&quot;:15,&quot;mobile&quot;:15}},&quot;cap&quot;:&quot;Compare this rhino and iguana because why not.&quot;,&quot;align&quot;:&quot;&quot;,&quot;alignment&quot;:&quot;center&quot;,&quot;border&quot;:[],&quot;isSwap&quot;:false,&quot;isLabel&quot;:true,&quot;labelColors&quot;:{&quot;color&quot;:&quot;#fff&quot;,&quot;bg&quot;:&quot;#00000080&quot;},&quot;labelPadding&quot;:{&quot;vertical&quot;:&quot;10px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;isCap&quot;:true,&quot;capAlign&quot;:&quot;center&quot;,&quot;capTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:14,&quot;tablet&quot;:14,&quot;mobile&quot;:14}},&quot;capColors&quot;:{&quot;color&quot;:&quot;#333&quot;,&quot;bg&quot;:&quot;#f4f4f4&quot;},&quot;capPadding&quot;:{&quot;vertical&quot;:&quot;10px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;hasCustomCSS&quot;:false,&quot;customCSS&quot;:&quot;&quot;,&quot;otterConditions&quot;:[]}'></div>
+	
+			
+
+
+<div id="block-b56e3c-fc1c-43" style="border-style:solid" class="wp-block-gutenbee-image-comparison block-b56e3c-fc1c-43"><div class="wp-block-gutenbee-comparison-wrap" data-offset="50"><img decoding="async" class="img-1" src="/wp-static-test-2/wp-content/uploads/2024/05/image-8.jpeg" alt=""/><img decoding="async" class="img-2" src="/wp-static-test-2/wp-content/uploads/2024/05/image-7.jpeg" alt=""/></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gif time</title>
+		<link>/wp-static-test-2/blog/uncategorized/gif-time/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 21:27:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1608</guid>
+
+					<description><![CDATA[Ok, let&#8217;s play with some gifs. Embedded.. via GIPHY And local&#8230; Cat Dance Dancing Cat GIFfrom Cat Dance GIFs Cat Dance Dancing Cat GIFfrom Cat Dance GIFs]]></description>
+										<content:encoded><![CDATA[
+<p>Ok, let&#8217;s play with some gifs.  Embedded..</p>
+
+
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe loading="lazy" src="https://giphy.com/embed/l378cwPKMti2m34wE" width="" height="100" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/reaction-3d-l378cwPKMti2m34wE">via GIPHY</a></p>
+
+
+
+<p>And local&#8230;</p>
+
+
+
+<figure class="wp-block-image size-full is-resized is-style-editorskit-circular"><img data-dominant-color="1b62a1" data-has-transparency="true" loading="lazy" decoding="async" width="480" height="480" src="/wp-static-test-2/wp-content/uploads/2024/06/cookiemonster.gif" alt="Animated light bulb with &quot;Ideas&quot; text forming within the bulb." class="has-transparency wp-image-1612" style="--dominant-color: #1b62a1; width:220px;height:auto" srcset="/wp-static-test-2/wp-content/uploads/2024/06/cookiemonster.gif 480w, /wp-static-test-2/wp-content/uploads/2024/06/cookiemonster-150x150.gif 150w, /wp-static-test-2/wp-content/uploads/2024/06/cookiemonster-300x300.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></figure>
+
+
+
+<div class="tenor-gif-embed" data-postid="18059553370350307210" data-share-method="host" data-aspect-ratio="0.56266" data-width="100%"><a href="https://tenor.com/view/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210">Cat Dance Dancing Cat GIF</a>from <a href="https://tenor.com/search/cat+dance-gifs">Cat Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+
+<p><a href="https://tenor.com/view/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210">Cat Dance Dancing Cat GIF</a>from <a href="https://tenor.com/search/cat+dance-gifs">Cat Dance GIFs</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prepare for an Unforgettable Experience: Saving Money and Fun Awaits</title>
+		<link>/wp-static-test-2/blog/uncategorized/prepare-for-an-unforgettable-experience-saving-money-and-fun-awaits/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 21:06:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1605</guid>
+
+					<description><![CDATA[Symbols? Option Nope. Is markdown good here? here just like this WARNING: This site has been known to cause a mind blowing experience. We recommend you prepare yourself mentally and if possible be sitting down. Side effects may include saving money, letting out a chuckle, and sporadic oinking. Once upon a time, in the serene [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="editorskit-shortcode">Reading Time: 3 min</div>
+
+
+
+<p>Symbols? <kbd>Option</kbd> Nope.  Is markdown good here?  <strong>here</strong> <em>just like this</em></p>
+
+
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:18% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1024x683.jpg" alt="" class="wp-image-1073 size-full" srcset="/wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p><strong>WARNING:</strong> This site has been known to cause a mind blowing experience. We recommend you prepare yourself mentally and if possible be sitting down. Side effects may include saving money, letting out a chuckle, and sporadic oinking.</p>
+</div></div>
+
+
+
+<p>Once upon a time, in the serene coastal town of Pelican Bay, there lived two pelicans named Percy and Piper. Percy and Piper were inseparable from the moment they hatched. They spent their days soaring over the crystal-clear waters, diving for fish, and exploring the nooks and crannies of their beloved bay. Their bond was unbreakable, and they shared dreams of adventure and discovery.</p>
+
+
+
+<p>One day, as they sat on their favorite perch overlooking the sunset, Percy shared his dream of traveling to the bustling city beyond the horizon. He had heard tales of skyscrapers, endless lights, and endless opportunities. Piper, however, loved their peaceful bay and couldn’t imagine leaving. Despite their differing dreams, they promised to support each other no matter what.</p>
+
+
+
+<p>The day came when Percy, with a heavy heart, decided to chase his dreams. Piper, teary-eyed but resolute, saw him off, wishing him nothing but success. Percy’s journey to the city was filled with excitement and wonder. He marveled at the towering buildings, the hustle and bustle, and the endless possibilities.</p>
+
+
+
+<p>Percy’s charismatic nature quickly earned him a spot in the city’s entertainment scene. His quick wit and engaging personality led him to become a talk show host. “Percy’s Perch” became an overnight sensation, with celebrities and fans flocking to his show. Despite his newfound fame, Percy often found himself reminiscing about the quiet days at Pelican Bay and his dear friend Piper.</p>
+
+
+
+<p>Meanwhile, Piper continued to live a tranquil life by the bay. She missed Percy terribly and often wondered about his adventures in the city. Piper found solace in the simple pleasures of life, like watching the sunset and enjoying the local delicacies. One day, while attending a local food festival, Piper discovered a newfound love for tacos. The festival’s taco stand became her favorite spot, and she visited it every chance she got.</p>
+
+
+
+<p>Years passed, and Percy’s fame grew. He had everything he could have ever dreamed of, yet something was missing. He longed for the simple joys he once shared with Piper. One evening, during a live broadcast, Percy shared his feelings with his audience. He spoke of his dear friend Piper, the bay, and their shared love for adventure. His heartfelt message resonated with viewers across the city, and it wasn’t long before the story reached Pelican Bay.</p>
+
+
+
+<p>Piper, while enjoying her favorite tacos, overheard some festival-goers talking about Percy’s heartfelt broadcast. Her heart swelled with emotion, and she realized that despite the distance and the years, their bond remained as strong as ever. Determined to reunite with her friend, Piper decided to visit the city and find Percy.</p>
+
+
+
+<p>With a sense of excitement and nervousness, Piper made her way to the bustling city. She felt overwhelmed by the noise and the crowds but pressed on, driven by the thought of reuniting with Percy. She finally arrived at the studio where “Percy’s Perch” was filmed. As she walked through the doors, memories of their adventures flooded her mind.</p>
+
+
+
+<p>Percy, in the middle of rehearsing for his show, was informed of a special visitor. When he turned and saw Piper standing there, his heart skipped a beat. The two friends rushed to embrace each other, tears of joy streaming down their faces. It was as if no time had passed at all.</p>
+
+
+
+<p>That night, Percy and Piper sat on the studio’s rooftop, overlooking the city lights. They shared stories of their adventures, their dreams, and their newfound love for tacos. Percy, inspired by Piper’s love for tacos, decided to incorporate a taco segment into his show. “Taco Tuesdays with Piper” became a hit, and the duo’s bond grew stronger with each passing day.</p>
+
+
+
+<p>Despite the ups and downs, the distance, and the years apart, Percy and Piper’s friendship endured. They realized that no matter where life took them, their bond was unbreakable. And so, with tacos in hand and smiles on their faces, Percy and Piper continued to soar, their hearts forever united by their love for each other and their love for life’s simple pleasures.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>More timelines</title>
 		<link>/wp-static-test-2/blog/uncategorized/more-timelines/</link>
 		
@@ -68,228 +391,6 @@
 
 
 <div class="wp-block-post-timeline-block main-timeline post-timeline" style="background-color:#fffff"><div class="container"><div class="ptl-posts-cont p-tl-cont ptl-front-cont ptl-cont"><div class="ptl-container"><div class="ptl-row justify-content-center"><div class="pol-md-11 pol-sm-12"><div class="ptl-post-block-head"><h3 class="ptl-post-heading" style="color:#4285f4">National Holidays</h3></div><div class="ptl-content-sec"><span class="ptl-center-line" style="background:#4285f4"></span><div class="ptl-sec-yr" style="background:#4285f4">Start</div><div class="timeline-section ptl-row no-gutters odd"><div class="cir-sec zoomIn" style="background:#fff;border-color:#778beb"><div class="ptl-icon-cont"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="flag-usa" class="svg-inline--fa fa-flag-usa " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="color:#778beb"><path fill="currentColor" d="M544 61.63V30.74c0-25-28.81-37.99-53.17-26.49C306.3 91.5 321.5-62.25 96 32.38V32c0-17.75-14.25-32-32-32S32 14.25 32 32L31.96 496c0 8.75 7.25 16 15.1 16H80C88.75 512 96 504.8 96 496V384c200-92.25 238.8 53.25 428.1-23.12C536.3 355.9 544 344.4 544 332.1V296.1c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25-.125-74.17-8.5-107.7-16.62C254 288.5 195.3 274.8 96 314.8v-34.5c102-37.63 166.5-22.75 228.4-7.625C385.1 287.8 444.7 301.4 544 261.5V200c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25 0-74.17-8.375-107.7-16.5C254 192.5 195.3 178.8 96 218.8v-34.5c102-37.5 166.5-22.62 228.4-7.5C385.1 191.8 444.7 205.4 544 165.6V96.75c-57.75 23.5-100.4 31.38-135.8 31.38c-62.96 0-118.9-27.09-120.2-27.38V67.5C331.9 78.94 390.1 128.3 544 61.63zM160 136c-8.75 0-16-7.125-16-16s7.25-16 16-16s16 7.125 16 16S168.8 136 160 136zM160 72c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S168.8 72 160 72zM224 128C215.3 128 208 120.9 208 112S215.3 96 224 96s16 7 16 16C240 120.8 232.8 128 224 128zM224 64.25c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S232.8 64.25 224 64.25z"></path></svg></div></div><div class="pol-md-6"><div class="ptl-date-sec"><h3 class="date fadeIn" style="color:#778beb"><strong>17 Jan</strong></h3></div></div><div class="pol-md-6 data-box"><div class="ti-box"><div class="tag-span"><h2 class="ptl-p-title" style="background-color:#778beb">Martin Luther King Jr. Day</h2><span class="ptl-h2-span" style="background-color:#778beb"></span></div><div class="p-collapse in"><div class="ptl-cont-box"><div class="ptl-img-cont"><img decoding="async" class="ptl-p-img" src="/wp-static-test-2/wp-content/plugins/post-timeline/admin/blocks/assets/images/Martin-Luther-King-Jr.-Day.jpg" alt="Image"/></div><div class="ptl-desc"><div class="ptl-content">Martin Luther King Jr. Day is a federal holiday in the United States that is observed to honor the achievements of Martin Luther King</div></div></div></div></div></div></div><div class="timeline-section ptl-row no-gutters even"><div class="cir-sec zoomIn" style="background:#fff;border-color:#f5cd79"><div class="ptl-icon-cont"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="flag-usa" class="svg-inline--fa fa-flag-usa " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="color:#f5cd79"><path fill="currentColor" d="M544 61.63V30.74c0-25-28.81-37.99-53.17-26.49C306.3 91.5 321.5-62.25 96 32.38V32c0-17.75-14.25-32-32-32S32 14.25 32 32L31.96 496c0 8.75 7.25 16 15.1 16H80C88.75 512 96 504.8 96 496V384c200-92.25 238.8 53.25 428.1-23.12C536.3 355.9 544 344.4 544 332.1V296.1c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25-.125-74.17-8.5-107.7-16.62C254 288.5 195.3 274.8 96 314.8v-34.5c102-37.63 166.5-22.75 228.4-7.625C385.1 287.8 444.7 301.4 544 261.5V200c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25 0-74.17-8.375-107.7-16.5C254 192.5 195.3 178.8 96 218.8v-34.5c102-37.5 166.5-22.62 228.4-7.5C385.1 191.8 444.7 205.4 544 165.6V96.75c-57.75 23.5-100.4 31.38-135.8 31.38c-62.96 0-118.9-27.09-120.2-27.38V67.5C331.9 78.94 390.1 128.3 544 61.63zM160 136c-8.75 0-16-7.125-16-16s7.25-16 16-16s16 7.125 16 16S168.8 136 160 136zM160 72c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S168.8 72 160 72zM224 128C215.3 128 208 120.9 208 112S215.3 96 224 96s16 7 16 16C240 120.8 232.8 128 224 128zM224 64.25c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S232.8 64.25 224 64.25z"></path></svg></div></div><div class="pol-md-6"><div class="ptl-date-sec"><h3 class="date fadeIn" style="color:#f5cd79"><strong>20 Feb</strong></h3></div></div><div class="pol-md-6 data-box fadeIn panim"><div class="ti-box"><div class="tag-span"><h2 class="ptl-p-title" style="background-color:#f5cd79">Washington’s Birthday</h2><span class="ptl-h2-span" style="background-color:#f5cd79"></span></div><div class="p-collapse in"><div class="ptl-cont-box"><div class="ptl-img-cont"><img decoding="async" class="ptl-p-img" src="/wp-static-test-2/wp-content/plugins/post-timeline/admin/blocks/assets/images/Washingtons-Birthday.jpg" alt="Image"/></div><div class="ptl-desc"><div class="ptl-content">Washington’s Birthday is a holiday in the United States which is celebrated to honor both George Washington and Abraham Lincoln</div></div></div></div></div></div></div><div class="timeline-section ptl-row no-gutters odd"><div class="cir-sec zoomIn" style="background:#fff;border-color:#74b9ff"><div class="ptl-icon-cont"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="flag-usa" class="svg-inline--fa fa-flag-usa " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="color:#74b9ff"><path fill="currentColor" d="M544 61.63V30.74c0-25-28.81-37.99-53.17-26.49C306.3 91.5 321.5-62.25 96 32.38V32c0-17.75-14.25-32-32-32S32 14.25 32 32L31.96 496c0 8.75 7.25 16 15.1 16H80C88.75 512 96 504.8 96 496V384c200-92.25 238.8 53.25 428.1-23.12C536.3 355.9 544 344.4 544 332.1V296.1c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25-.125-74.17-8.5-107.7-16.62C254 288.5 195.3 274.8 96 314.8v-34.5c102-37.63 166.5-22.75 228.4-7.625C385.1 287.8 444.7 301.4 544 261.5V200c-46.98 17.25-86.42 24.12-120.8 24.12c-40.25 0-74.17-8.375-107.7-16.5C254 192.5 195.3 178.8 96 218.8v-34.5c102-37.5 166.5-22.62 228.4-7.5C385.1 191.8 444.7 205.4 544 165.6V96.75c-57.75 23.5-100.4 31.38-135.8 31.38c-62.96 0-118.9-27.09-120.2-27.38V67.5C331.9 78.94 390.1 128.3 544 61.63zM160 136c-8.75 0-16-7.125-16-16s7.25-16 16-16s16 7.125 16 16S168.8 136 160 136zM160 72c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S168.8 72 160 72zM224 128C215.3 128 208 120.9 208 112S215.3 96 224 96s16 7 16 16C240 120.8 232.8 128 224 128zM224 64.25c-8.75 0-16-7-16-16c0-8.75 7.25-16 16-16s16 7.125 16 16S232.8 64.25 224 64.25z"></path></svg></div></div><div class="pol-md-6"><div class="ptl-date-sec"><h3 class="date fadeIn" style="color:#74b9ff"><strong>29 May</strong></h3></div></div><div class="pol-md-6 data-box"><div class="ti-box"><div class="tag-span"><h2 class="ptl-p-title" style="background-color:#74b9ff">Memorial Day</h2><span class="ptl-h2-span" style="background-color:#74b9ff"></span></div><div class="p-collapse in"><div class="ptl-cont-box"><div class="ptl-img-cont"><img decoding="async" class="ptl-p-img" src="/wp-static-test-2/wp-content/plugins/post-timeline/admin/blocks/assets/images/Memorial-Day.jpg" alt="Image"/></div><div class="ptl-desc"><div class="ptl-content">Memorial Day is an American Holiday that is observed to honor the fallen U.S. military personnel.</div></div></div></div></div></div></div><div class="ptl-sec-yr ptl-last" style="background:#4285f4">End</div></div></div></div></div></div></div></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Another timeline</title>
-		<link>/wp-static-test-2/blog/uncategorized/another-timeline/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 18:01:52 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1558</guid>
-
-					<description><![CDATA[[timeline_feed id=1]]]></description>
-										<content:encoded><![CDATA[
-<p><strong>[timeline_feed id=1]</strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title></title>
-		<link>/wp-static-test-2/blog/uncategorized/1553/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 17:47:32 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1553</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-cgb-timeline twp-timeline-wrapper" id="twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac"><style>@media only screen and (max-width: 976px) {#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__marker{margin-left: 0;margin-right: 0;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__heading{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline-desc-content{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__events-new{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__date-hide.uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__day-right .uagb-timeline__arrow:after{border-right-color: #eee;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__line{left: calc( 35px / 2 );}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__author{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__link_parent{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__image a{text-align: left;}}@media only screen and (max-width: 767px) {#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__marker{margin-left: 0;margin-right: 0;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__day-new.uagb-timeline__day-left{margin-left: 10px;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block .uagb-timeline__day-new.uagb-timeline__day-right{margin-left: 10px;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__heading{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline-desc-content{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__events-new{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__date-hide.uagb-timeline__date-inner{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__day-right .uagb-timeline__arrow:after{border-right-color: #eee;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__line{left: calc( 35px / 2 );}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__author{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__link_parent{text-align: left;}#twp-ctm-465fd46e-4940-476d-a72b-f3704a8161ac .uagb-timeline__center-block.uagb-timeline__responsive-mobile .uagb-timeline__image a{text-align: left;}}</style><div class="timeline-content-wrap uagb-timeline__center-block  uagb-timeline__arrow-center uagb-timeline__responsive-tablet uagb-timeline"><div class="main-timeline default"><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 1</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 2</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 3</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article><article class="timeline"><div class="timeline-content"><div class="circle"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg></span></div><div class="content"><span class="year">2013 &#8211; 2014</span><h4 class="title">Timeline WP Heading 4</h4><p placeholder="Write a Description" class="description">This is Timeline WP description, you can change me anytime click here </p><div class="icon"><span></span></div></div></div></article></div></div></div>
-
-
-
-<p class="cgb-shortcode undefined"> [timeline_wp id=&#8221;1552&#8243; ] </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Is Jetpack worth it 2</title>
-		<link>/wp-static-test-2/blog/uncategorized/is-jetpack-worth-it-2/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 17:18:12 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1546</guid>
-
-					<description><![CDATA[/]]></description>
-										<content:encoded><![CDATA[
-<p>/</p>
-
-
-
-<div class="wp-story wp-block-jetpack-story"></div>
-
-
-
-<ul class="wp-block-jetpack-sharing-buttons has-normal-icon-size jetpack-sharing-buttons__services-list" id="jetpack-sharing-serivces-list">
-
-</ul>
-
-
-
-<div class="wp-block-jetpack-blogroll">
-<h3 class="wp-block-heading">Blogroll</h3>
-</div>
-
-
-
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img fetchpriority="high" decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1078" data-id="1078" src="/wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/michael-pointner-0hUp6mI6Zus-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1077" data-id="1077" src="/wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/wolfgang-hasselmann-R0HhC5Ys8QE-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1076" data-id="1076" src="/wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/mayur-arvind-wMZcl2w_6TM-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1024" height="683" alt="" class="wp-block-jetpack-slideshow_image wp-image-1066" data-id="1066" src="/wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1024x683.jpg" srcset="/wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1024x683.jpg 1024w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-300x200.jpg 300w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-768x512.jpg 768w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1536x1024.jpg 1536w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-2048x1365.jpg 2048w, /wp-static-test-2/wp-content/uploads/2024/05/roberto-nickson-udjuFffdtWY-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Is Jetpack worth it?</title>
-		<link>/wp-static-test-2/blog/uncategorized/is-jetpack-worth-it/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 17:12:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1543</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-
-
-<div class="wp-block-jetpack-calendly"></div>
-
-
-
-<div class="wp-block-jetpack-contact-info">
-
-
-
-</div>
-
-
-
-
-
-
-
-<a class="wp-block-jetpack-google-calendar"></a>
-
-
-
-<figure class="wp-block-jetpack-image-compare"><div class="juxtapose" data-mode="horizontal"><img loading="lazy" decoding="async" id="1156" src="/wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74.jpg" alt="a close up of a lion in a field of tall grass" width="1200" height="1200" class="image-compare__image-before"/><img loading="lazy" decoding="async" id="1154" src="/wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y.jpg" alt="white butterfly resting on cat's nose" width="800" height="1200" class="image-compare__image-after"/></div></figure>
-
-
-
-
-
-<div class="wp-block-jetpack-map" data-map-style="default" data-map-details="true" data-points="[]" data-zoom="13" data-map-center="{&quot;longitude&quot;:-122.41941550000001,&quot;latitude&quot;:37.7749295}" data-marker-color="red" data-show-fullscreen-button="true"></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Icon testing again</title>
-		<link>/wp-static-test-2/blog/uncategorized/icon-testing-again/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 16:51:56 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1538</guid>
-
-					<description><![CDATA[Ok and I&#8217;m typing and icon]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-outermost-icon-block"><div class="icon-container has-icon-color has-icon-background-color has-primary-background-color has-foreground-color rotate-90 flip-horizontal" style="background-color:#FF502D;color:#FFF;width:104px"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 10h4c.6 0 1-.4 1-1V5c0-.6-.4-1-1-1h-4c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1zm-8 4H4c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1h4c.6 0 1-.4 1-1v-4c0-.6-.4-1-1-1zm10-2.6L14.5 15l1.1 1.1 1.7-1.7c-.1 1.1-.3 2.3-.9 2.9-.3.3-.7.5-1.3.5h-4.5v1.5H15c.9 0 1.7-.3 2.3-.9 1-1 1.3-2.7 1.4-4l1.8 1.8 1.1-1.1-3.6-3.7zM6.8 9.7c.1-1.1.3-2.3.9-2.9.4-.4.8-.6 1.3-.6h4.5V4.8H9c-.9 0-1.7.3-2.3.9-1 1-1.3 2.7-1.4 4L3.5 8l-1 1L6 12.6 9.5 9l-1-1-1.7 1.7z"></path></svg></div></div>
-
-
-
-<p>Ok and I&#8217;m typing and icon <i class="icon fa fa-apple" aria-hidden="true"> </i></p>
-
-
-
-<div class="wp-block-jvm-single-icon"><i class="icon fa fa-cab" aria-hidden="true"> </i></div>
-
-
-
-<div id="block-0d515b-4533-42" class="wp-block-gutenbee-icon block-0d515b-4533-42 gutenbee-icon-block align-left gutenbee-icon-block-default"><style>.gutenbee-icon-block.block-0d515b-4533-42 .gutenbee-icon-block-icon-wrap { font-size: 40px; }
-.gutenbee-icon-block.block-0d515b-4533-42 svg { width: 40px; height: 40px; }</style><span class="gutenbee-icon-block-icon-wrap" style="background-color:transparent;border-color:transparent;width:auto;height:auto;border-width:3px"><svg viewBox="0 0 24 24" class="wp-block-gutenbee-icon-icon" preserveAspectRatio="xMidYMid meet"><path fill="#5c6671" d="M14 9.021c0 2.189-.509 3.13-.567 3.23a.5.5 0 01-.867-.497c.011-.021.435-.831.435-2.733 0-1.266-1.309-2.021-3.5-2.021a.5.5 0 01-.5-.479c-.003-.076-.066-1.861.891-2.859.421-.439.962-.662 1.608-.662a.5.5 0 010 1c-.368 0-.658.116-.887.354-.402.418-.552 1.144-.599 1.66 2.473.136 3.985 1.262 3.985 3.007zM24 8.5a3.475 3.475 0 01-2.167 3.222c-.456 2.058-1.836 3.706-3.645 4.584a.482.482 0 01-.177.081 6.704 6.704 0 01-2.76.614 6.769 6.769 0 01-1.515-.172c-.306.639-.865 1.231-1.603 1.731l-.003.002c-1.393 2.243-2.138 5.038-2.146 5.066a.5.5 0 01-.483.373h-2a.498.498 0 01-.488-.607c.022-.103.471-2.148.822-3.414-.127.009-.249.005-.373.008-.068.002-.141.016-.208.016-.059 0-.115-.006-.174-.008-.051-.001-.101-.005-.151-.007a7.15 7.15 0 01-.579-.045l-.188-.026a6.185 6.185 0 01-.695-.142 5.106 5.106 0 01-.418-.132c-.068-.025-.137-.048-.202-.075a4.548 4.548 0 01-.358-.17c-.062-.033-.126-.063-.185-.098a3.225 3.225 0 01-.305-.211c-.052-.039-.107-.075-.155-.116a2.822 2.822 0 01-.26-.265c-.035-.04-.077-.076-.11-.118a2.315 2.315 0 01-.27-.435 2.047 2.047 0 01-.143-.423c-.023-.098-.029-.198-.038-.298-.003-.041-.012-.082-.012-.123a2.353 2.353 0 01.147-.858 3.757 3.757 0 01-3.156-3.703c0-1.178.568-2.285 1.508-2.988a5.34 5.34 0 01-.508-2.262c0-3.033 2.467-5.5 5.5-5.5.128 0 .253.011.376.026A4.703 4.703 0 0110.752.001c1.681 0 3.232.902 4.081 2.337a4.342 4.342 0 011.669-.337 4.485 4.485 0 014.231 3.008 3.504 3.504 0 013.269 3.492zM7.413 14.35a7.821 7.821 0 00-1.257.493 1.55 1.55 0 01.362 0c1.27.152 2.306.839 2.918 1.935a.5.5 0 11-.873.487c-.579-1.037-1.496-1.349-2.164-1.429-.972-.116-1.779.206-2.039.468-.188.274-.366.635-.351 1.015l.002.025c.008.129.036.259.096.388.062.132.152.258.266.375.018.019.043.034.063.052.1.094.212.184.343.265.043.027.095.049.141.074a3.3 3.3 0 00.368.173c.085.033.177.061.269.089a4.686 4.686 0 00.967.195c.164.018.331.032.504.038.073.002.149 0 .223 0 .184 0 .37-.001.561-.015.099-.007.202-.024.303-.036.164-.018.326-.033.493-.062h.015a8.819 8.819 0 001.026-.244 7.306 7.306 0 001.836-.846l.002-.003c.574-.375 1.001-.798 1.252-1.223a1.945 1.945 0 00.205-.465c.001-.005.006-.009.007-.014a1.168 1.168 0 00-.061-.814c-.348-.745-1.557-1.274-3.141-1.274a8.28 8.28 0 00-2.338.354zm3.12 5.034a9.32 9.32 0 01-.661.225c-.319.095-.634.151-.95.211l-.001.001c-.241.768-.603 2.32-.797 3.179h.998a23.86 23.86 0 011.411-3.616zM23 8.5A2.502 2.502 0 0020.509 6l-.12.014-.011-.001A2.497 2.497 0 0018 8.501a.5.5 0 01-1 0c0-.201.027-.394.059-.586a2.036 2.036 0 01-.538.086c-.666 0-2.44-.634-2.849-1.862a.5.5 0 11.948-.316c.219.656 1.476 1.179 1.901 1.179.253 0 .727-.21 1.038-.382a3.503 3.503 0 012.135-1.515 3.485 3.485 0 00-3.193-2.103 3.44 3.44 0 00-1.651.435.503.503 0 01-.693-.233 3.756 3.756 0 00-3.406-2.202 3.72 3.72 0 00-3.199 1.822c-.014.022-.039.031-.055.05-.005.011-.005.022-.011.033a3.752 3.752 0 00.233 4.053.499.499 0 11-.807.588 4.714 4.714 0 01-.429-.725c-.308.088-.701.245-.943.513a.499.499 0 11-.743-.668c.394-.438.941-.67 1.353-.793a4.731 4.731 0 01-.148-1.123c0-.595.115-1.183.33-1.733-2.401.092-4.33 2.059-4.33 4.483 0 .608.137 1.205.395 1.782.433-.169.888-.282 1.355-.282.498 0 .975.102 1.417.281l.028.01a3.736 3.736 0 011.911 1.782.5.5 0 01-.895.448 2.734 2.734 0 00-.878-1c-.373 1.081-1.329 2.169-1.463 2.316a.501.501 0 01-.706.034.5.5 0 01-.034-.706c.444-.49 1.102-1.396 1.298-2.07a2.773 2.773 0 00-.678-.094c-.451 0-.88.105-1.277.314l-.009.003c-.021.017-.036.038-.06.052a2.75 2.75 0 00-1.404 2.381 2.75 2.75 0 002.699 2.745c.719-.899 1.933-1.658 3.428-2.103a9.405 9.405 0 011.741-.332 2.927 2.927 0 01.08-1.44c-.19-.62-.535-1.498-.803-1.766a.5.5 0 01.707-.707c.315.315.588.9.786 1.414.194-.181.411-.347.67-.482a.5.5 0 11.463.887c-.98.512-1.058 1.346-.894 2.051 1.848.032 3.382.68 3.919 1.83.148.318.209.655.194.999.414.093.833.155 1.258.155.834 0 1.622-.196 2.343-.52A2.7 2.7 0 0018 14.066c0-.438-.154-1.088-.484-1.624-.501.856-1.259 1.566-2.047 1.566a.5.5 0 010-1c.345 0 .928-.534 1.309-1.294a1.504 1.504 0 00-.754-.211.5.5 0 010-1c.661 0 1.208.251 1.653.626.03.02.061.039.085.064.811.734 1.238 1.918 1.238 2.872 0 .212-.023.407-.054.593a5.73 5.73 0 001.959-3.394.501.501 0 01.342-.39A2.484 2.484 0 0023 8.503zm-2.131-.482C20.223 8.193 19 8.937 19 10.5a.5.5 0 001 0c0-1.16 1.018-1.485 1.131-1.518a.5.5 0 10-.261-.965z"></path></svg></span></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Which animated did I choose?</title>
-		<link>/wp-static-test-2/blog/uncategorized/which-animated-did-i-choose/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 16:00:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1535</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gutenbee Block Testing</title>
-		<link>/wp-static-test-2/blog/uncategorized/gutenbee-block-testing/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Mon, 10 Jun 2024 16:09:04 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1475</guid>
-
-					<description><![CDATA[I really need to learn to type&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>I really need to learn to type&#8230;</p>
-
-
-
-<div id="block-ea0f43-75d3-48" class="wp-block-gutenbee-banner block-ea0f43-75d3-48 has-parallax has-background-image" style="color:"><div class="wp-block-gutenbee-banner-inner"><div class="wp-block-gutenbee-banner-inner-wrapper">
-<h2 class="wp-block-heading">Hi there</h2>
-
-
-
-<p>So it&#8217;s just a container?</p>
-</div></div><div class="wp-block-gutenbee-banner-background gutenbee-parallax" data-parallax-speed="0.3" style="background-color:#F8F8F8"></div><style>.wp-block-gutenbee-banner.block-ea0f43-75d3-48 { height: 327px; }
-.wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-inner { align-items: center; justify-content: center; }
-.wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-background { background-image: url(/wp-static-test-2/wp-content/uploads/2024/06/image.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center; background-attachment: scroll; }</style></div>
-
-
-
-<div id="block-05a315-b2f3-4c" class="wp-block-gutenbee-divider block-05a315-b2f3-4c align-center" style="height:45px"><div class="wp-block-gutenbee-divider-inner" style="border-top-style:solid;border-top-width:6px;border-top-color:#000000;width:100%"></div></div>
-
-
-
-<div id="block-861311-6f2c-43" class="wp-block-gutenbee-iconbox block-861311-6f2c-43 wp-block-gutenbee-iconbox-align-left"><div id="block-861311-6f2c-43-icon" class="block-861311-6f2c-43-icon gutenbee-icon-block align-left gutenbee-icon-block-default"><style>.gutenbee-icon-block.block-861311-6f2c-43-icon .gutenbee-icon-block-icon-wrap { font-size: 72px; }
-.gutenbee-icon-block.block-861311-6f2c-43-icon svg { width: 72px; height: 72px; }</style><span class="gutenbee-icon-block-icon-wrap" style="background-color:transparent;border-color:transparent;width:auto;height:auto;border-width:3px"><svg viewBox="0 0 24 24" class="" preserveAspectRatio="xMidYMid meet"><path fill="#5c6671" d="M14 9.021c0 2.189-.509 3.13-.567 3.23a.5.5 0 01-.867-.497c.011-.021.435-.831.435-2.733 0-1.266-1.309-2.021-3.5-2.021a.5.5 0 01-.5-.479c-.003-.076-.066-1.861.891-2.859.421-.439.962-.662 1.608-.662a.5.5 0 010 1c-.368 0-.658.116-.887.354-.402.418-.552 1.144-.599 1.66 2.473.136 3.985 1.262 3.985 3.007zM24 8.5a3.475 3.475 0 01-2.167 3.222c-.456 2.058-1.836 3.706-3.645 4.584a.482.482 0 01-.177.081 6.704 6.704 0 01-2.76.614 6.769 6.769 0 01-1.515-.172c-.306.639-.865 1.231-1.603 1.731l-.003.002c-1.393 2.243-2.138 5.038-2.146 5.066a.5.5 0 01-.483.373h-2a.498.498 0 01-.488-.607c.022-.103.471-2.148.822-3.414-.127.009-.249.005-.373.008-.068.002-.141.016-.208.016-.059 0-.115-.006-.174-.008-.051-.001-.101-.005-.151-.007a7.15 7.15 0 01-.579-.045l-.188-.026a6.185 6.185 0 01-.695-.142 5.106 5.106 0 01-.418-.132c-.068-.025-.137-.048-.202-.075a4.548 4.548 0 01-.358-.17c-.062-.033-.126-.063-.185-.098a3.225 3.225 0 01-.305-.211c-.052-.039-.107-.075-.155-.116a2.822 2.822 0 01-.26-.265c-.035-.04-.077-.076-.11-.118a2.315 2.315 0 01-.27-.435 2.047 2.047 0 01-.143-.423c-.023-.098-.029-.198-.038-.298-.003-.041-.012-.082-.012-.123a2.353 2.353 0 01.147-.858 3.757 3.757 0 01-3.156-3.703c0-1.178.568-2.285 1.508-2.988a5.34 5.34 0 01-.508-2.262c0-3.033 2.467-5.5 5.5-5.5.128 0 .253.011.376.026A4.703 4.703 0 0110.752.001c1.681 0 3.232.902 4.081 2.337a4.342 4.342 0 011.669-.337 4.485 4.485 0 014.231 3.008 3.504 3.504 0 013.269 3.492zM7.413 14.35a7.821 7.821 0 00-1.257.493 1.55 1.55 0 01.362 0c1.27.152 2.306.839 2.918 1.935a.5.5 0 11-.873.487c-.579-1.037-1.496-1.349-2.164-1.429-.972-.116-1.779.206-2.039.468-.188.274-.366.635-.351 1.015l.002.025c.008.129.036.259.096.388.062.132.152.258.266.375.018.019.043.034.063.052.1.094.212.184.343.265.043.027.095.049.141.074a3.3 3.3 0 00.368.173c.085.033.177.061.269.089a4.686 4.686 0 00.967.195c.164.018.331.032.504.038.073.002.149 0 .223 0 .184 0 .37-.001.561-.015.099-.007.202-.024.303-.036.164-.018.326-.033.493-.062h.015a8.819 8.819 0 001.026-.244 7.306 7.306 0 001.836-.846l.002-.003c.574-.375 1.001-.798 1.252-1.223a1.945 1.945 0 00.205-.465c.001-.005.006-.009.007-.014a1.168 1.168 0 00-.061-.814c-.348-.745-1.557-1.274-3.141-1.274a8.28 8.28 0 00-2.338.354zm3.12 5.034a9.32 9.32 0 01-.661.225c-.319.095-.634.151-.95.211l-.001.001c-.241.768-.603 2.32-.797 3.179h.998a23.86 23.86 0 011.411-3.616zM23 8.5A2.502 2.502 0 0020.509 6l-.12.014-.011-.001A2.497 2.497 0 0018 8.501a.5.5 0 01-1 0c0-.201.027-.394.059-.586a2.036 2.036 0 01-.538.086c-.666 0-2.44-.634-2.849-1.862a.5.5 0 11.948-.316c.219.656 1.476 1.179 1.901 1.179.253 0 .727-.21 1.038-.382a3.503 3.503 0 012.135-1.515 3.485 3.485 0 00-3.193-2.103 3.44 3.44 0 00-1.651.435.503.503 0 01-.693-.233 3.756 3.756 0 00-3.406-2.202 3.72 3.72 0 00-3.199 1.822c-.014.022-.039.031-.055.05-.005.011-.005.022-.011.033a3.752 3.752 0 00.233 4.053.499.499 0 11-.807.588 4.714 4.714 0 01-.429-.725c-.308.088-.701.245-.943.513a.499.499 0 11-.743-.668c.394-.438.941-.67 1.353-.793a4.731 4.731 0 01-.148-1.123c0-.595.115-1.183.33-1.733-2.401.092-4.33 2.059-4.33 4.483 0 .608.137 1.205.395 1.782.433-.169.888-.282 1.355-.282.498 0 .975.102 1.417.281l.028.01a3.736 3.736 0 011.911 1.782.5.5 0 01-.895.448 2.734 2.734 0 00-.878-1c-.373 1.081-1.329 2.169-1.463 2.316a.501.501 0 01-.706.034.5.5 0 01-.034-.706c.444-.49 1.102-1.396 1.298-2.07a2.773 2.773 0 00-.678-.094c-.451 0-.88.105-1.277.314l-.009.003c-.021.017-.036.038-.06.052a2.75 2.75 0 00-1.404 2.381 2.75 2.75 0 002.699 2.745c.719-.899 1.933-1.658 3.428-2.103a9.405 9.405 0 011.741-.332 2.927 2.927 0 01.08-1.44c-.19-.62-.535-1.498-.803-1.766a.5.5 0 01.707-.707c.315.315.588.9.786 1.414.194-.181.411-.347.67-.482a.5.5 0 11.463.887c-.98.512-1.058 1.346-.894 2.051 1.848.032 3.382.68 3.919 1.83.148.318.209.655.194.999.414.093.833.155 1.258.155.834 0 1.622-.196 2.343-.52A2.7 2.7 0 0018 14.066c0-.438-.154-1.088-.484-1.624-.501.856-1.259 1.566-2.047 1.566a.5.5 0 010-1c.345 0 .928-.534 1.309-1.294a1.504 1.504 0 00-.754-.211.5.5 0 010-1c.661 0 1.208.251 1.653.626.03.02.061.039.085.064.811.734 1.238 1.918 1.238 2.872 0 .212-.023.407-.054.593a5.73 5.73 0 001.959-3.394.501.501 0 01.342-.39A2.484 2.484 0 0023 8.503zm-2.131-.482C20.223 8.193 19 8.937 19 10.5a.5.5 0 001 0c0-1.16 1.018-1.485 1.131-1.518a.5.5 0 10-.261-.965z"></path></svg></span></div><div class="wp-block-gutenbee-iconbox-content"><h3 class="wp-block-gutenbee-iconbox-title">Icon box?</h3><p class="wp-block-gutenbee-iconbox-text">Oh I see</p></div></div>
-
-
-
-<div id="block-22f336-fd62-46" class="wp-block-gutenbee-countup block-22f336-fd62-46 wp-block-gutenbee-countup-align-left"><style>.wp-block-gutenbee-countup.block-22f336-fd62-46 .wp-block-gutenbee-countup-number { font-size: 16px; }
-.wp-block-gutenbee-countup.block-22f336-fd62-46 .wp-block-gutenbee-countup-title { font-size: 16px; }</style><span class="wp-block-gutenbee-countup-number" data-start="0" data-end="999" data-animation-duration="5" data-separator="," data-inviewport="true">0</span><p class="wp-block-gutenbee-countup-title">Counting&#8230;</p></div>
-
-
-
-<div id="block-c6d403-e32d-49" class="wp-block-gutenbee-progress-bar block-c6d403-e32d-49"><style>.wp-block-gutenbee-progress-bar.block-c6d403-e32d-49 .wp-block-gutenbee-progress-bar-title { font-size: 16px; }
-.wp-block-gutenbee-progress-bar.block-c6d403-e32d-49 .wp-block-gutenbee-progress-bar-inner-title { font-size: 14px; }</style><p class="wp-block-gutenbee-progress-bar-title">Yay progress bars!</p><div class="wp-block-gutenbee-progress-bar-outer"><div class="wp-block-gutenbee-progress-bar-inner" style="width:86%"><span class="wp-block-gutenbee-progress-bar-percentage">86%</span></div></div></div>
-
-
-
-<div id="block-bdf123-cb8a-4c" class="wp-block-gutenbee-image-comparison block-bdf123-cb8a-4c"><div class="wp-block-gutenbee-comparison-wrap" data-offset="50"><img decoding="async" class="img-1" src="/wp-static-test-2/wp-content/uploads/2024/06/s2ayrbfr74-768x768.jpg" alt=""/><img decoding="async" class="img-2" src="/wp-static-test-2/wp-content/uploads/2024/06/rw-i87apy5y-768x1152.jpg" alt=""/></div></div>
-
-
-
-<div id="block-0fe3b2-3354-4c" class="wp-block-gutenbee-countdown block-0fe3b2-3354-4c" data-date="2024-06-29T11:08:53"><style>.wp-block-gutenbee-countdown.block-0fe3b2-3354-4c .gutenbee-countdown-number { font-size: 24px; }
-.wp-block-gutenbee-countdown.block-0fe3b2-3354-4c .gutenbee-countdown-label { font-size: 13px; }</style><div class="wp-block-gutenbee-countdown-wrap"><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-days"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-days">Days</p></div><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-hours"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-hours">Hours</p></div><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-minutes"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-minutes">Minutes</p></div><div class="wp-block-gutenbee-countdown-item"><p class="gutenbee-countdown-number gutenbee-countdown-seconds"></p><p class="gutenbee-countdown-label gutenbee-countdown-label-seconds">Seconds</p></div></div></div>
 ]]></content:encoded>
 					
 		

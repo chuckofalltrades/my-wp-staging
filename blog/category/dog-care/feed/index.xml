@@ -12,7 +12,7 @@
 	<atom:link href="/wp-static-test-2/blog/category/dog-care/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp-static-test-2/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
-	<lastBuildDate>Tue, 04 Jun 2024 20:20:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jun 2024 13:52:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,76 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>Dog Post</title>
+		<link>/wp-static-test-2/blog/dog-care/dog-post/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 13:52:41 +0000</pubDate>
+				<category><![CDATA[Dog Care]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1673</guid>
+
+					<description><![CDATA[This is a post about dogs.]]></description>
+										<content:encoded><![CDATA[
+<p>This is a post about dogs.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Random Dog Post</title>
+		<link>/wp-static-test-2/blog/dog-care/random-dog-post/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 22:48:04 +0000</pubDate>
+				<category><![CDATA[Dog Care]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1658</guid>
+
+					<description><![CDATA[Once upon a time, in a quaint little town called Barksville, there lived a group of dogs who had an unusual hobby—they loved watching cartoons. Barksville was a sleepy village with cobblestone streets, blooming flower gardens, and the friendliest of people. But what truly set it apart was its community of extraordinarily intelligent and quirky [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Once upon a time, in a quaint little town called Barksville, there lived a group of dogs who had an unusual hobby—they loved watching cartoons. Barksville was a sleepy village with cobblestone streets, blooming flower gardens, and the friendliest of people. But what truly set it apart was its community of extraordinarily intelligent and quirky dogs.</p>
+
+
+
+<p>This love for cartoons began with a Golden Retriever named Rusty. One rainy afternoon, while his humans were out, Rusty accidentally stepped on the remote control. The television flickered to life, and a colorful cartoon filled the screen. Rusty&#8217;s eyes widened in amazement as he watched animated characters zooming across the screen, accompanied by whimsical music and playful sounds. From that moment on, Rusty was hooked.</p>
+
+
+
+<p>Word about Rusty&#8217;s new obsession spread quickly among the canine residents of Barksville. Soon, dogs of all breeds and sizes were sneaking into their humans&#8217; living rooms to catch a glimpse of the latest animated adventures. There was Bella, the elegant Greyhound, who adored the graceful movements of cartoon ballerinas. Max, the mischievous Beagle, couldn&#8217;t get enough of the slapstick humor and wild chases. Even Winston, the dignified Bulldog, found himself chuckling at the antics of cartoon clowns.</p>
+
+
+
+<p>As the dogs&#8217; fascination with cartoons grew, a unique tradition emerged in Barksville. Every Friday night, the dogs would gather at the town square for a special screening. The event was known as &#8220;Cartoon Canine Night,&#8221; and it was the highlight of their week. The humans, curious about their pets&#8217; excitement, decided to join in the fun.</p>
+
+
+
+<p>The town square transformed into an open-air cinema, with a giant screen set up under the stars. Families brought picnic blankets, and vendors sold popcorn and treats. The dogs sat in rows, their tails wagging in anticipation. Rusty, the pioneer of cartoon fandom, had the honor of selecting the evening&#8217;s feature.</p>
+
+
+
+<p>One memorable Cartoon Canine Night, Rusty chose a classic: &#8220;The Adventures of Spotty the Brave.&#8221; As the opening credits rolled, the dogs barked in delight. Spotty, a courageous Dalmatian, embarked on a series of daring escapades to rescue his friends from comical villains. The dogs in the audience howled with laughter and barked in encouragement as Spotty outsmarted his foes.</p>
+
+
+
+<p>During the climactic chase scene, Bella couldn&#8217;t help but mimic Spotty&#8217;s graceful leaps and spins. Max, feeling the excitement, darted playfully between the rows, pretending to be part of the action. Even Winston, known for his stoic demeanor, let out a hearty chuckle when Spotty pulled off a particularly clever trick.</p>
+
+
+
+<p>As the credits rolled and the dogs settled down, the humans marveled at the joy that cartoons brought to their furry companions. They realized that, in a world filled with responsibilities and worries, the simplicity and whimsy of cartoons had a magical way of bringing everyone together—two-legged and four-legged alike.</p>
+
+
+
+<p>From that night on, Cartoon Canine Night became a cherished tradition in Barksville. The dogs continued to revel in the animated adventures, and the humans found themselves rediscovering the magic of their own childhoods. Barksville became known not just for its charming streets and friendly residents, but also for the heartwarming bond between its dogs and their beloved cartoons.</p>
+
+
+
+<p>And so, in the town of Barksville, every Friday night, under the twinkling stars, dogs and humans alike gathered to share in the laughter, the excitement, and the pure, unadulterated joy of cartoons. It was a reminder that sometimes, the simplest pleasures could create the most extraordinary memories.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Collar Couture: Discover the Perfect Fit for Your Pup!</title>
 		<link>/wp-static-test-2/blog/dog-care/collar-couture-discover-the-perfect-fit-for-your-pup/</link>
 		
