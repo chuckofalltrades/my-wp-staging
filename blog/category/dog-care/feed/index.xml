@@ -12,31 +12,22 @@
 	<atom:link href="/wp-static-test-2/blog/category/dog-care/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp-static-test-2/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
-	<lastBuildDate>Wed, 12 Jun 2024 13:52:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 22:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
-	<item>
-		<title>Dog Post</title>
-		<link>/wp-static-test-2/blog/dog-care/dog-post/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Wed, 12 Jun 2024 13:52:41 +0000</pubDate>
-				<category><![CDATA[Dog Care]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1673</guid>
 
-					<description><![CDATA[This is a post about dogs.]]></description>
-										<content:encoded><![CDATA[
-<p>This is a post about dogs.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
+<image>
+	<url>/wp-static-test-2/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<title>Dog Care &#8211; WP Static Test 2</title>
+	<link>/wp-static-test-2/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
 		<title>Random Dog Post</title>
 		<link>/wp-static-test-2/blog/dog-care/random-dog-post/</link>
 		

@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-static-test-2/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<title>Toys &#8211; WP Static Test 2</title>
+	<link>/wp-static-test-2/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Top 5 Cat Toys Your Feline Friend Will Love</title>
 		<link>/wp-static-test-2/blog/cat-care/top-5-cat-toys-your-feline-friend-will-love/</link>
