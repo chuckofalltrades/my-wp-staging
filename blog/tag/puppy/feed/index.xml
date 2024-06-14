@@ -9,9 +9,9 @@
 
 <channel>
 	<title>puppy &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/tag/puppy/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/tag/puppy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Fri, 31 May 2024 21:46:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>puppy &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Ultimate Guide to Dog Training</title>
-		<link>/dev-wp-general-testing/blog/dog-care/the-ultimate-guide-to-dog-training/</link>
+		<link>/blog/dog-care/the-ultimate-guide-to-dog-training/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Sun, 26 May 2024 21:34:48 +0000</pubDate>
@@ -38,11 +38,11 @@
 		<category><![CDATA[dog]]></category>
 		<category><![CDATA[puppy]]></category>
 		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1046</guid>
+		<guid isPermaLink="false">/?p=1046</guid>
 
 					<description><![CDATA[Training your dog is essential for a happy and well-behaved pet. Whether you have a new puppy or an older dog, consistent training will ensure they understand what is expected of them. Here are some tips to get you started. Basic Commands Start with basic commands like &#8220;sit,&#8221; &#8220;stay,&#8221; and &#8220;come.&#8221; Use positive reinforcement techniques, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-11.jpeg" alt="" class="wp-image-1094" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-11.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-11-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-11-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 51</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-11.jpeg" alt="" class="wp-image-1094" srcset="/wp-content/uploads/2024/05/image-11.jpeg 800w, /wp-content/uploads/2024/05/image-11-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-11-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 51</figcaption></figure>
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-12.jpeg" alt="" class="wp-image-1095" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-12.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-12-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-12-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 404</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-12.jpeg" alt="" class="wp-image-1095" srcset="/wp-content/uploads/2024/05/image-12.jpeg 800w, /wp-content/uploads/2024/05/image-12-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-12-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 404</figcaption></figure>
 
 
 

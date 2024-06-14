@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Test &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/tag/test/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/tag/test/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Fri, 07 Jun 2024 17:31:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Test &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>What did I like about Otter?</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/what-did-i-like-about-otter/</link>
+		<link>/blog/uncategorized/what-did-i-like-about-otter/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
@@ -38,7 +38,7 @@
 		<category><![CDATA[nothing]]></category>
 		<category><![CDATA[sample]]></category>
 		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1270</guid>
+		<guid isPermaLink="false">/?p=1270</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
@@ -50,14 +50,14 @@
 			</item>
 		<item>
 		<title>Tooltip test</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/tooltip-test/</link>
+		<link>/blog/uncategorized/tooltip-test/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 19:44:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[sample]]></category>
 		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1259</guid>
+		<guid isPermaLink="false">/?p=1259</guid>
 
 					<description><![CDATA[In this post I will mention the turtle. Now what happens?]]></description>
 										<content:encoded><![CDATA[

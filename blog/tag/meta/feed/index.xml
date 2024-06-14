@@ -9,9 +9,9 @@
 
 <channel>
 	<title>meta &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/tag/meta/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/tag/meta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Wed, 12 Jun 2024 20:30:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>meta &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Pelican Songs</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/pelican-songs/</link>
+		<link>/blog/uncategorized/pelican-songs/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 22:28:59 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[pals]]></category>
 		<category><![CDATA[stories]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1649</guid>
+		<guid isPermaLink="false">/?p=1649</guid>
 
 					<description><![CDATA[Once upon a time, in the serene coastal town of Pelican Bay, there lived two pelicans named Percy and Piper. Percy and Piper were inseparable from the moment they hatched. They spent their days soaring over the crystal-clear waters, diving for fish, and exploring the nooks and crannies of their beloved bay. Their bond was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -103,14 +103,14 @@
 			</item>
 		<item>
 		<title>This Is a Sample Post</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/this-is-a-sample-post/</link>
+		<link>/blog/uncategorized/this-is-a-sample-post/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 02 May 2024 21:20:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[sample]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1034</guid>
+		<guid isPermaLink="false">/?p=1034</guid>
 
 					<description><![CDATA[Welcome, dear readers, to the most thrilling adventure you&#8217;ll embark on today: reading a sample blog post! Yes, you heard that right. This post is purely a sample, a demonstration, an example of what a blog post can be. Isn&#8217;t that just the most exciting thing? What Makes This Sample Post Special? You might be [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -158,7 +158,7 @@
 			</item>
 		<item>
 		<title>Yet Another Sample, But This Time We&#8217;ll Call It an Example</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/yet-another-sample-but-this-time-well-call-it-an-example/</link>
+		<link>/blog/uncategorized/yet-another-sample-but-this-time-well-call-it-an-example/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 01 May 2024 21:24:07 +0000</pubDate>
@@ -166,7 +166,7 @@
 		<category><![CDATA[example]]></category>
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[sample]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1037</guid>
+		<guid isPermaLink="false">/?p=1037</guid>
 
 					<description><![CDATA[Welcome back, dear readers, to the world of sample blog posts. Or should we say, example blog posts? Today, we&#8217;re embracing the art of redundancy and basking in the glory of the example blog post. Isn&#8217;t it just exhilarating? What&#8217;s in a Name? You might be wondering, &#8220;Why call it an example instead of a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -198,7 +198,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-13.jpeg" alt="" class="wp-image-1097" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-13.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-13-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-13-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 237</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-13.jpeg" alt="" class="wp-image-1097" srcset="/wp-content/uploads/2024/05/image-13.jpeg 800w, /wp-content/uploads/2024/05/image-13-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-13-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 237</figcaption></figure>
 
 
 

@@ -9,9 +9,9 @@
 
 <channel>
 	<title>cat toy &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/tag/cat-toy/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/tag/cat-toy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Fri, 31 May 2024 21:45:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>cat toy &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Top 5 Cat Toys Your Feline Friend Will Love</title>
-		<link>/dev-wp-general-testing/blog/cat-care/top-5-cat-toys-your-feline-friend-will-love/</link>
+		<link>/blog/cat-care/top-5-cat-toys-your-feline-friend-will-love/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 23 May 2024 21:35:02 +0000</pubDate>
@@ -38,11 +38,11 @@
 		<category><![CDATA[cat]]></category>
 		<category><![CDATA[cat toy]]></category>
 		<category><![CDATA[Toys]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1048</guid>
+		<guid isPermaLink="false">/?p=1048</guid>
 
 					<description><![CDATA[Cats are playful creatures that need mental and physical stimulation. Providing a variety of toys can keep them entertained and prevent boredom. Here are five cat toys that your feline friend will love. 1. Feather Wand Feather wands are a classic favorite. They mimic the movement of birds and engage your cat&#8217;s hunting instincts. Move [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-9.jpeg" alt="" class="wp-image-1091" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-9.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-9-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-9-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 177</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-9.jpeg" alt="" class="wp-image-1091" srcset="/wp-content/uploads/2024/05/image-9.jpeg 800w, /wp-content/uploads/2024/05/image-9-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-9-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 177</figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-10.jpeg" alt="" class="wp-image-1092" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-10.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-10-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-10-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 910</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-10.jpeg" alt="" class="wp-image-1092" srcset="/wp-content/uploads/2024/05/image-10.jpeg 800w, /wp-content/uploads/2024/05/image-10-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-10-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 910</figcaption></figure>
 
 
 

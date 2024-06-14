@@ -9,9 +9,9 @@
 
 <channel>
 	<title>sample &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/tag/sample/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/tag/sample/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Fri, 07 Jun 2024 17:31:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>sample &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>What did I like about Otter?</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/what-did-i-like-about-otter/</link>
+		<link>/blog/uncategorized/what-did-i-like-about-otter/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 20:20:14 +0000</pubDate>
@@ -38,7 +38,7 @@
 		<category><![CDATA[nothing]]></category>
 		<category><![CDATA[sample]]></category>
 		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1270</guid>
+		<guid isPermaLink="false">/?p=1270</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
@@ -50,14 +50,14 @@
 			</item>
 		<item>
 		<title>Tooltip test</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/tooltip-test/</link>
+		<link>/blog/uncategorized/tooltip-test/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 19:44:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[sample]]></category>
 		<category><![CDATA[Test]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1259</guid>
+		<guid isPermaLink="false">/?p=1259</guid>
 
 					<description><![CDATA[In this post I will mention the turtle. Now what happens?]]></description>
 										<content:encoded><![CDATA[
@@ -69,14 +69,14 @@
 			</item>
 		<item>
 		<title>This Is a Sample Post</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/this-is-a-sample-post/</link>
+		<link>/blog/uncategorized/this-is-a-sample-post/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 02 May 2024 21:20:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[sample]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1034</guid>
+		<guid isPermaLink="false">/?p=1034</guid>
 
 					<description><![CDATA[Welcome, dear readers, to the most thrilling adventure you&#8217;ll embark on today: reading a sample blog post! Yes, you heard that right. This post is purely a sample, a demonstration, an example of what a blog post can be. Isn&#8217;t that just the most exciting thing? What Makes This Sample Post Special? You might be [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -124,7 +124,7 @@
 			</item>
 		<item>
 		<title>Yet Another Sample, But This Time We&#8217;ll Call It an Example</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/yet-another-sample-but-this-time-well-call-it-an-example/</link>
+		<link>/blog/uncategorized/yet-another-sample-but-this-time-well-call-it-an-example/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 01 May 2024 21:24:07 +0000</pubDate>
@@ -132,7 +132,7 @@
 		<category><![CDATA[example]]></category>
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[sample]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1037</guid>
+		<guid isPermaLink="false">/?p=1037</guid>
 
 					<description><![CDATA[Welcome back, dear readers, to the world of sample blog posts. Or should we say, example blog posts? Today, we&#8217;re embracing the art of redundancy and basking in the glory of the example blog post. Isn&#8217;t it just exhilarating? What&#8217;s in a Name? You might be wondering, &#8220;Why call it an example instead of a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -164,7 +164,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-13.jpeg" alt="" class="wp-image-1097" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-13.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-13-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-13-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 237</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-13.jpeg" alt="" class="wp-image-1097" srcset="/wp-content/uploads/2024/05/image-13.jpeg 800w, /wp-content/uploads/2024/05/image-13-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-13-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 237</figcaption></figure>
 
 
 

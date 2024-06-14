@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Uncategorized &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Fri, 14 Jun 2024 14:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Uncategorized &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Marker Post</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/marker-post/</link>
+		<link>/blog/uncategorized/marker-post/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Fri, 14 Jun 2024 14:42:37 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1795</guid>
+		<guid isPermaLink="false">/?p=1795</guid>
 
 					<description><![CDATA[Just to mark update place.]]></description>
 										<content:encoded><![CDATA[
@@ -46,7 +46,7 @@
 			</item>
 		<item>
 		<title>Pelican Songs</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/pelican-songs/</link>
+		<link>/blog/uncategorized/pelican-songs/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 22:28:59 +0000</pubDate>
@@ -56,7 +56,7 @@
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[pals]]></category>
 		<category><![CDATA[stories]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1649</guid>
+		<guid isPermaLink="false">/?p=1649</guid>
 
 					<description><![CDATA[Once upon a time, in the serene coastal town of Pelican Bay, there lived two pelicans named Percy and Piper. Percy and Piper were inseparable from the moment they hatched. They spent their days soaring over the crystal-clear waters, diving for fish, and exploring the nooks and crannies of their beloved bay. Their bond was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -108,7 +108,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -120,12 +120,12 @@
 			</item>
 		<item>
 		<title>Boost Blog Engagement and SEO with Captivating Featured Images</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/boost-blog-engagement-and-seo-with-captivating-featured-images/</link>
+		<link>/blog/uncategorized/boost-blog-engagement-and-seo-with-captivating-featured-images/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 22:23:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1645</guid>
+		<guid isPermaLink="false">/?p=1645</guid>
 
 					<description><![CDATA[### The Importance of Featured Images in Blogs In the rapidly advancing realm of content creation, the presentation of your blog posts can profoundly influence readership and engagement levels. While high-quality writing is indispensable, the visual elements accompanying your content are equally critical. Featured images, in particular, play a crucial role in capturing attention, enhancing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -189,12 +189,12 @@
 			</item>
 		<item>
 		<title>Gif time</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/gif-time/</link>
+		<link>/blog/uncategorized/gif-time/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 21:27:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1608</guid>
+		<guid isPermaLink="false">/?p=1608</guid>
 
 					<description><![CDATA[Ok, let&#8217;s play with some gifs. Embedded.. via GIPHY And local&#8230; Cat Dance Dancing Cat GIFfrom Cat Dance GIFs Cat Dance Dancing Cat GIFfrom Cat Dance GIFs]]></description>
 										<content:encoded><![CDATA[
@@ -210,7 +210,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized is-style-editorskit-circular"><img data-dominant-color="1b62a1" data-has-transparency="true" loading="lazy" decoding="async" width="480" height="480" src="/dev-wp-general-testing/wp-content/uploads/2024/06/cookiemonster.gif" alt="Animated light bulb with &quot;Ideas&quot; text forming within the bulb." class="has-transparency wp-image-1612" style="--dominant-color: #1b62a1; width:220px;height:auto" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/cookiemonster.gif 480w, /dev-wp-general-testing/wp-content/uploads/2024/06/cookiemonster-150x150.gif 150w, /dev-wp-general-testing/wp-content/uploads/2024/06/cookiemonster-300x300.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-editorskit-circular"><img data-dominant-color="1b62a1" data-has-transparency="true" loading="lazy" decoding="async" width="480" height="480" src="/wp-content/uploads/2024/06/cookiemonster.gif" alt="Animated light bulb with &quot;Ideas&quot; text forming within the bulb." class="has-transparency wp-image-1612" style="--dominant-color: #1b62a1; width:220px;height:auto" srcset="/wp-content/uploads/2024/06/cookiemonster.gif 480w, /wp-content/uploads/2024/06/cookiemonster-150x150.gif 150w, /wp-content/uploads/2024/06/cookiemonster-300x300.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></figure>
 
 
 
@@ -230,12 +230,12 @@
 			</item>
 		<item>
 		<title>Prepare for an Unforgettable Experience: Saving Money and Fun Awaits</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/prepare-for-an-unforgettable-experience-saving-money-and-fun-awaits/</link>
+		<link>/blog/uncategorized/prepare-for-an-unforgettable-experience-saving-money-and-fun-awaits/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 21:06:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1605</guid>
+		<guid isPermaLink="false">/?p=1605</guid>
 
 					<description><![CDATA[Symbols? Option Nope. Is markdown good here? here just like this WARNING: This site has been known to cause a mind blowing experience. We recommend you prepare yourself mentally and if possible be sitting down. Side effects may include saving money, letting out a chuckle, and sporadic oinking. Once upon a time, in the serene [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div class="editorskit-shortcode">Reading Time: 3 min</div>
@@ -248,7 +248,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:18% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="683" src="/dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1024x683.jpg" alt="" class="wp-image-1073 size-full" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1024x683.jpg 1024w, /dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-300x200.jpg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-768x512.jpg 768w, /dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1536x1024.jpg 1536w, /dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-2048x1365.jpg 2048w, /dev-wp-general-testing/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:18% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1024x683.jpg" alt="" class="wp-image-1073 size-full" srcset="/wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1024x683.jpg 1024w, /wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-300x200.jpg 300w, /wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-768x512.jpg 768w, /wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-2048x1365.jpg 2048w, /wp-content/uploads/2024/05/haberdoedas-m9ezh-Y3y9Q-unsplash-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
 <p><strong>WARNING:</strong> This site has been known to cause a mind blowing experience. We recommend you prepare yourself mentally and if possible be sitting down. Side effects may include saving money, letting out a chuckle, and sporadic oinking.</p>
 </div></div>
 
@@ -302,12 +302,12 @@
 			</item>
 		<item>
 		<title>Icon testing again</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/icon-testing-again/</link>
+		<link>/blog/uncategorized/icon-testing-again/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 16:51:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1538</guid>
+		<guid isPermaLink="false">/?p=1538</guid>
 
 					<description><![CDATA[Ok and I&#8217;m typing and icon]]></description>
 										<content:encoded><![CDATA[
@@ -332,12 +332,12 @@
 			</item>
 		<item>
 		<title>Which animated did I choose?</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/which-animated-did-i-choose/</link>
+		<link>/blog/uncategorized/which-animated-did-i-choose/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 16:00:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1535</guid>
+		<guid isPermaLink="false">/?p=1535</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -347,12 +347,12 @@
 			</item>
 		<item>
 		<title>Gutenbee Block Testing</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/gutenbee-block-testing/</link>
+		<link>/blog/uncategorized/gutenbee-block-testing/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Mon, 10 Jun 2024 16:09:04 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1475</guid>
+		<guid isPermaLink="false">/?p=1475</guid>
 
 					<description><![CDATA[I really need to learn to type&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -368,7 +368,7 @@
 <p>So it&#8217;s just a container?</p>
 </div></div><div class="wp-block-gutenbee-banner-background gutenbee-parallax" data-parallax-speed="0.3" style="background-color:#F8F8F8"></div><style>.wp-block-gutenbee-banner.block-ea0f43-75d3-48 { height: 327px; }
 .wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-inner { align-items: center; justify-content: center; }
-.wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-background { background-image: url(/dev-wp-general-testing/wp-content/uploads/2024/06/image.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center; background-attachment: scroll; }</style></div>
+.wp-block-gutenbee-banner.block-ea0f43-75d3-48 > .wp-block-gutenbee-banner-background { background-image: url(/wp-content/uploads/2024/06/image.jpeg); background-repeat: no-repeat; background-size: cover; background-position: top center; background-attachment: scroll; }</style></div>
 
 
 
@@ -391,7 +391,7 @@
 
 
 
-<div id="block-bdf123-cb8a-4c" class="wp-block-gutenbee-image-comparison block-bdf123-cb8a-4c"><div class="wp-block-gutenbee-comparison-wrap" data-offset="50"><img decoding="async" class="img-1" src="/dev-wp-general-testing/wp-content/uploads/2024/06/s2ayrbfr74-768x768.jpg" alt=""/><img decoding="async" class="img-2" src="/dev-wp-general-testing/wp-content/uploads/2024/06/rw-i87apy5y-768x1152.jpg" alt=""/></div></div>
+<div id="block-bdf123-cb8a-4c" class="wp-block-gutenbee-image-comparison block-bdf123-cb8a-4c"><div class="wp-block-gutenbee-comparison-wrap" data-offset="50"><img decoding="async" class="img-1" src="/wp-content/uploads/2024/06/s2ayrbfr74-768x768.jpg" alt=""/><img decoding="async" class="img-2" src="/wp-content/uploads/2024/06/rw-i87apy5y-768x1152.jpg" alt=""/></div></div>
 
 
 
@@ -404,12 +404,12 @@
 			</item>
 		<item>
 		<title>Link Testing</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/1472/</link>
+		<link>/blog/uncategorized/1472/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Mon, 10 Jun 2024 15:57:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1472</guid>
+		<guid isPermaLink="false">/?p=1472</guid>
 
 					<description><![CDATA[Got this new visual link thing, let&#8217;s see how it works&#8230; Here&#8217;s a normal link. Ok, now is visual different? This is s visual link. Oh so it&#8217;s entirely separate? Still useful I suppose.]]></description>
 										<content:encoded><![CDATA[
@@ -437,12 +437,12 @@
 			</item>
 		<item>
 		<title>Test Commenting system</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/test-commenting-system/</link>
+		<link>/blog/uncategorized/test-commenting-system/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2024 21:39:46 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1458</guid>
+		<guid isPermaLink="false">/?p=1458</guid>
 
 					<description><![CDATA[This is using the Cusdis privacy-first commenting platform. https://cusdis.com/]]></description>
 										<content:encoded><![CDATA[

@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Meta &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/category/meta/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/category/meta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Thu, 13 Jun 2024 19:40:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Meta &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A quick post to test some links.  Also this header while I&#8217;m at it.</title>
-		<link>/dev-wp-general-testing/blog/meta/a-quick-post-to-test-some-links-also-this-header-while-im-at-it/</link>
+		<link>/blog/meta/a-quick-post-to-test-some-links-also-this-header-while-im-at-it/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 13 Jun 2024 19:40:12 +0000</pubDate>
 				<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1792</guid>
+		<guid isPermaLink="false">/?p=1792</guid>
 
 					<description><![CDATA[So let&#8217;s make that header default to Title Case because yeah. And let&#8217;s link to something here. Ok, now does that link indicate it&#8217;s external? Doens&#8217;t appear to in the editor and I don&#8217;t see any options. Block maybe? Nope, no special blocks that I see.]]></description>
 										<content:encoded><![CDATA[
@@ -50,12 +50,12 @@
 			</item>
 		<item>
 		<title>The Current State of ChatGPT -OR- Why it&#8217;s Important Not to Confuse Models and Features</title>
-		<link>/dev-wp-general-testing/blog/meta/the-current-state-of-chatgpt-or-why-its-important-not-to-confuse-models-and-features/</link>
+		<link>/blog/meta/the-current-state-of-chatgpt-or-why-its-important-not-to-confuse-models-and-features/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Wed, 12 Jun 2024 20:05:19 +0000</pubDate>
 				<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1723</guid>
+		<guid isPermaLink="false">/?p=1723</guid>
 
 					<description><![CDATA[AI Models vs. Features of Implementation: A Comparative Exploration [This content is for demo purposes only and is not fact-checked. Placeholder text and random gibberish will appear throughout.] In the ever-evolving field of artificial intelligence, the discussion often gravitates toward two primary areas: the sophistication of AI models and the features of their implementation. This [&#8230;]]]></description>
 										<content:encoded><![CDATA[

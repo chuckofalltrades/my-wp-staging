@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Birds &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/category/birds/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/category/birds/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Wed, 12 Jun 2024 20:30:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Birds &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Pelican Songs</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/pelican-songs/</link>
+		<link>/blog/uncategorized/pelican-songs/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 22:28:59 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[meta]]></category>
 		<category><![CDATA[pals]]></category>
 		<category><![CDATA[stories]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1649</guid>
+		<guid isPermaLink="false">/?p=1649</guid>
 
 					<description><![CDATA[Once upon a time, in the serene coastal town of Pelican Bay, there lived two pelicans named Percy and Piper. Percy and Piper were inseparable from the moment they hatched. They spent their days soaring over the crystal-clear waters, diving for fish, and exploring the nooks and crannies of their beloved bay. Their bond was [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="7ab5bb" data-has-transparency="false" fetchpriority="high" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png" alt="" class="not-transparent wp-image-1651" style="--dominant-color: #7ab5bb; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK.png 1792w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1536x878.png 1536w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-300x171.png 300w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-768x439.png 768w, /wp-content/uploads/2024/06/img-vNtKRz89FpMbJMrfbbRGUsQK-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="6c7f7d" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png" alt="" class="not-transparent wp-image-1653" style="--dominant-color: #6c7f7d; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b.png 1792w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1536x878.png 1536w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-300x171.png 300w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-768x439.png 768w, /wp-content/uploads/2024/06/img-pQRTNFaebdnmc3vpof3Qz10b-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /dev-wp-general-testing/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img data-dominant-color="515864" data-has-transparency="false" decoding="async" width="1792" height="1024" src="/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png" alt="" class="not-transparent wp-image-1655" style="--dominant-color: #515864; width:900px" title="" srcset="/wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH.png 1792w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1536x878.png 1536w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-300x171.png 300w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-768x439.png 768w, /wp-content/uploads/2024/06/img-XVRAkLp0vTeLhyPOeLUlxXbH-1024x585.png 1024w" sizes="(max-width: 1792px) 100vw, 1792px" /></figure>
 
 
 

@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Dog Care &#8211; Dev WP General Testing</title>
-	<atom:link href="/dev-wp-general-testing/blog/category/dog-care/feed/" rel="self" type="application/rss+xml" />
-	<link>/dev-wp-general-testing/</link>
-	<description>This is my site&#039;s eciting tagline.</description>
+	<atom:link href="/blog/category/dog-care/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>This is my site&#039;s exciting tagline.</description>
 	<lastBuildDate>Tue, 11 Jun 2024 22:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Dog Care &#8211; Dev WP General Testing</title>
-	<link>/dev-wp-general-testing/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Random Dog Post</title>
-		<link>/dev-wp-general-testing/blog/dog-care/random-dog-post/</link>
+		<link>/blog/dog-care/random-dog-post/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 11 Jun 2024 22:48:04 +0000</pubDate>
 				<category><![CDATA[Dog Care]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1658</guid>
+		<guid isPermaLink="false">/?p=1658</guid>
 
 					<description><![CDATA[Once upon a time, in a quaint little town called Barksville, there lived a group of dogs who had an unusual hobby—they loved watching cartoons. Barksville was a sleepy village with cobblestone streets, blooming flower gardens, and the friendliest of people. But what truly set it apart was its community of extraordinarily intelligent and quirky [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -82,13 +82,13 @@
 			</item>
 		<item>
 		<title>Collar Couture: Discover the Perfect Fit for Your Pup!</title>
-		<link>/dev-wp-general-testing/blog/dog-care/collar-couture-discover-the-perfect-fit-for-your-pup/</link>
+		<link>/blog/dog-care/collar-couture-discover-the-perfect-fit-for-your-pup/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Tue, 04 Jun 2024 20:20:47 +0000</pubDate>
 				<category><![CDATA[Dog Care]]></category>
 		<category><![CDATA[Pet Products]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1185</guid>
+		<guid isPermaLink="false">/?p=1185</guid>
 
 					<description><![CDATA[Tail-Wagging Style: Find the Ideal Collar for Your Pup!]]></description>
 										<content:encoded><![CDATA[
@@ -136,7 +136,7 @@
 			</item>
 		<item>
 		<title>The Ultimate Guide to Dog Training</title>
-		<link>/dev-wp-general-testing/blog/dog-care/the-ultimate-guide-to-dog-training/</link>
+		<link>/blog/dog-care/the-ultimate-guide-to-dog-training/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Sun, 26 May 2024 21:34:48 +0000</pubDate>
@@ -145,11 +145,11 @@
 		<category><![CDATA[dog]]></category>
 		<category><![CDATA[puppy]]></category>
 		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1046</guid>
+		<guid isPermaLink="false">/?p=1046</guid>
 
 					<description><![CDATA[Training your dog is essential for a happy and well-behaved pet. Whether you have a new puppy or an older dog, consistent training will ensure they understand what is expected of them. Here are some tips to get you started. Basic Commands Start with basic commands like &#8220;sit,&#8221; &#8220;stay,&#8221; and &#8220;come.&#8221; Use positive reinforcement techniques, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-11.jpeg" alt="" class="wp-image-1094" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-11.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-11-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-11-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 51</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-11.jpeg" alt="" class="wp-image-1094" srcset="/wp-content/uploads/2024/05/image-11.jpeg 800w, /wp-content/uploads/2024/05/image-11-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-11-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 51</figcaption></figure>
 
 
 
@@ -205,7 +205,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-12.jpeg" alt="" class="wp-image-1095" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-12.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-12-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-12-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 404</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-12.jpeg" alt="" class="wp-image-1095" srcset="/wp-content/uploads/2024/05/image-12.jpeg 800w, /wp-content/uploads/2024/05/image-12-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-12-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 404</figcaption></figure>
 
 
 
@@ -237,7 +237,7 @@
 			</item>
 		<item>
 		<title>Traveling with Pets: Tips for a Smooth Journey</title>
-		<link>/dev-wp-general-testing/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
+		<link>/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Sat, 11 May 2024 21:36:08 +0000</pubDate>
@@ -248,11 +248,11 @@
 		<category><![CDATA[cat]]></category>
 		<category><![CDATA[dog]]></category>
 		<category><![CDATA[travel]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1056</guid>
+		<guid isPermaLink="false">/?p=1056</guid>
 
 					<description><![CDATA[Traveling with your pet can be a fun and rewarding experience, but it requires some preparation to ensure a smooth journey. Here are some tips to help you travel safely and comfortably with your furry friend. Plan Ahead Before you travel, make sure you have all the necessary documents, such as vaccination records and identification [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-2.jpeg" alt="Traveling Pets" class="wp-image-1057" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-2.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-2-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-2-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-2.jpeg" alt="Traveling Pets" class="wp-image-1057" srcset="/wp-content/uploads/2024/05/image-2.jpeg 800w, /wp-content/uploads/2024/05/image-2-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-2-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -276,7 +276,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-3.jpeg" alt="Pet Car Ride" class="wp-image-1058" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-3.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-3-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-3-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-3.jpeg" alt="Pet Car Ride" class="wp-image-1058" srcset="/wp-content/uploads/2024/05/image-3.jpeg 800w, /wp-content/uploads/2024/05/image-3-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-3-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -316,7 +316,7 @@
 			</item>
 		<item>
 		<title>The Benefits of Adopting a Pet</title>
-		<link>/dev-wp-general-testing/blog/uncategorized/the-benefits-of-adopting-a-pet/</link>
+		<link>/blog/uncategorized/the-benefits-of-adopting-a-pet/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Mon, 06 May 2024 21:35:32 +0000</pubDate>
@@ -325,11 +325,11 @@
 		<category><![CDATA[Pet Health]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Adoption]]></category>
-		<guid isPermaLink="false">/dev-wp-general-testing/?p=1052</guid>
+		<guid isPermaLink="false">/?p=1052</guid>
 
 					<description><![CDATA[Adopting a pet is a rewarding experience that brings joy and companionship into your life. Whether you’re considering a dog, cat, or another type of pet, here are some benefits of choosing adoption. Saving a Life By adopting a pet from a shelter or rescue organization, you are giving an animal a second chance at [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image.jpeg" alt="Pet Adoption" class="wp-image-1053" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image.jpeg" alt="Pet Adoption" class="wp-image-1053" srcset="/wp-content/uploads/2024/05/image.jpeg 800w, /wp-content/uploads/2024/05/image-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -353,7 +353,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-1.jpeg" alt="Happy Pets" class="wp-image-1054" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-1.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-1-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-1-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-content/uploads/2024/05/image-1.jpeg" alt="Happy Pets" class="wp-image-1054" srcset="/wp-content/uploads/2024/05/image-1.jpeg 800w, /wp-content/uploads/2024/05/image-1-300x150.jpeg 300w, /wp-content/uploads/2024/05/image-1-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
