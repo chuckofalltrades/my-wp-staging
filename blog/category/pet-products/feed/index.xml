@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Pet Products &#8211; WP Static Test 2</title>
+	<title>Pet Products &#8211; Dev WP General Testing</title>
 	<atom:link href="/dev-wp-general-testing/blog/category/pet-products/feed/" rel="self" type="application/rss+xml" />
 	<link>/dev-wp-general-testing/</link>
-	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
+	<description>This is my site&#039;s eciting tagline.</description>
 	<lastBuildDate>Tue, 04 Jun 2024 20:20:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
-	<title>Pet Products &#8211; WP Static Test 2</title>
+	<title>Pet Products &#8211; Dev WP General Testing</title>
 	<link>/dev-wp-general-testing/</link>
 	<width>32</width>
 	<height>32</height>
