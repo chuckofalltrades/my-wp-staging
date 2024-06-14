@@ -9,8 +9,8 @@
 
 <channel>
 	<title>toy &#8211; WP Static Test 2</title>
-	<atom:link href="/wp-static-test-2/blog/tag/toy/feed/" rel="self" type="application/rss+xml" />
-	<link>/wp-static-test-2/</link>
+	<atom:link href="/dev-wp-general-testing/blog/tag/toy/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev-wp-general-testing/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
 	<lastBuildDate>Fri, 31 May 2024 21:43:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/wp-static-test-2/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>toy &#8211; WP Static Test 2</title>
-	<link>/wp-static-test-2/</link>
+	<link>/dev-wp-general-testing/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>DIY Pet Toys: Fun and Easy Projects</title>
-		<link>/wp-static-test-2/blog/pet-products/diy-pet-toys-fun-and-easy-projects/</link>
+		<link>/dev-wp-general-testing/blog/pet-products/diy-pet-toys-fun-and-easy-projects/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 09 May 2024 21:36:22 +0000</pubDate>
@@ -37,11 +37,11 @@
 		<category><![CDATA[dog]]></category>
 		<category><![CDATA[play]]></category>
 		<category><![CDATA[toy]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1060</guid>
+		<guid isPermaLink="false">/dev-wp-general-testing/?p=1060</guid>
 
 					<description><![CDATA[Creating DIY pet toys is a fun and cost-effective way to keep your furry friends entertained. With a few simple materials, you can make toys that are safe and engaging for your pets. Here are some easy DIY pet toy projects to try. T-Shirt Rope Toy Recycle an old t-shirt into a durable rope toy [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-4.jpeg" alt="" class="wp-image-1084" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-4.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-4-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-4-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 364</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-4.jpeg" alt="" class="wp-image-1084" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-4.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-4-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-4-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 364</figcaption></figure>
 
 
 
@@ -93,7 +93,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-5.jpeg" alt="" class="wp-image-1085" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-5.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-5-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-5-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 498</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-5.jpeg" alt="" class="wp-image-1085" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-5.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-5-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-5-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 498</figcaption></figure>
 
 
 
@@ -193,7 +193,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-6.jpeg" alt="" class="wp-image-1086" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-6.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-6-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-6-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 868</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-6.jpeg" alt="" class="wp-image-1086" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-6.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-6-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-6-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 868</figcaption></figure>
 
 
 

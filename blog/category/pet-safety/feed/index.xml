@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pet Safety &#8211; WP Static Test 2</title>
-	<atom:link href="/wp-static-test-2/blog/category/pet-safety/feed/" rel="self" type="application/rss+xml" />
-	<link>/wp-static-test-2/</link>
+	<atom:link href="/dev-wp-general-testing/blog/category/pet-safety/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev-wp-general-testing/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
 	<lastBuildDate>Fri, 31 May 2024 21:43:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/wp-static-test-2/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Pet Safety &#8211; WP Static Test 2</title>
-	<link>/wp-static-test-2/</link>
+	<link>/dev-wp-general-testing/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Traveling with Pets: Tips for a Smooth Journey</title>
-		<link>/wp-static-test-2/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
+		<link>/dev-wp-general-testing/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Sat, 11 May 2024 21:36:08 +0000</pubDate>
@@ -40,11 +40,11 @@
 		<category><![CDATA[cat]]></category>
 		<category><![CDATA[dog]]></category>
 		<category><![CDATA[travel]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1056</guid>
+		<guid isPermaLink="false">/dev-wp-general-testing/?p=1056</guid>
 
 					<description><![CDATA[Traveling with your pet can be a fun and rewarding experience, but it requires some preparation to ensure a smooth journey. Here are some tips to help you travel safely and comfortably with your furry friend. Plan Ahead Before you travel, make sure you have all the necessary documents, such as vaccination records and identification [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-2.jpeg" alt="Traveling Pets" class="wp-image-1057" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-2.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-2-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-2-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-2.jpeg" alt="Traveling Pets" class="wp-image-1057" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-2.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-2-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-2-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<figure class="wp-block-image"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-3.jpeg" alt="Pet Car Ride" class="wp-image-1058" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-3.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-3-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-3-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-3.jpeg" alt="Pet Car Ride" class="wp-image-1058" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-3.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-3-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-3-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

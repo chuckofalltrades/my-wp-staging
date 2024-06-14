@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cat Care &#8211; WP Static Test 2</title>
-	<atom:link href="/wp-static-test-2/blog/category/cat-care/feed/" rel="self" type="application/rss+xml" />
-	<link>/wp-static-test-2/</link>
+	<atom:link href="/dev-wp-general-testing/blog/category/cat-care/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev-wp-general-testing/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
 	<lastBuildDate>Fri, 31 May 2024 21:45:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/wp-static-test-2/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>Cat Care &#8211; WP Static Test 2</title>
-	<link>/wp-static-test-2/</link>
+	<link>/dev-wp-general-testing/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Top 5 Cat Toys Your Feline Friend Will Love</title>
-		<link>/wp-static-test-2/blog/cat-care/top-5-cat-toys-your-feline-friend-will-love/</link>
+		<link>/dev-wp-general-testing/blog/cat-care/top-5-cat-toys-your-feline-friend-will-love/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Thu, 23 May 2024 21:35:02 +0000</pubDate>
@@ -38,11 +38,11 @@
 		<category><![CDATA[cat]]></category>
 		<category><![CDATA[cat toy]]></category>
 		<category><![CDATA[Toys]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1048</guid>
+		<guid isPermaLink="false">/dev-wp-general-testing/?p=1048</guid>
 
 					<description><![CDATA[Cats are playful creatures that need mental and physical stimulation. Providing a variety of toys can keep them entertained and prevent boredom. Here are five cat toys that your feline friend will love. 1. Feather Wand Feather wands are a classic favorite. They mimic the movement of birds and engage your cat&#8217;s hunting instincts. Move [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-9.jpeg" alt="" class="wp-image-1091" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-9.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-9-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-9-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 177</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-9.jpeg" alt="" class="wp-image-1091" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-9.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-9-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-9-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 177</figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-10.jpeg" alt="" class="wp-image-1092" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-10.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-10-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-10-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 910</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-10.jpeg" alt="" class="wp-image-1092" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-10.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-10-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-10-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 910</figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@
 			</item>
 		<item>
 		<title>Traveling with Pets: Tips for a Smooth Journey</title>
-		<link>/wp-static-test-2/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
+		<link>/dev-wp-general-testing/blog/dog-care/traveling-with-pets-tips-for-a-smooth-journey/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Sat, 11 May 2024 21:36:08 +0000</pubDate>
@@ -117,11 +117,11 @@
 		<category><![CDATA[cat]]></category>
 		<category><![CDATA[dog]]></category>
 		<category><![CDATA[travel]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1056</guid>
+		<guid isPermaLink="false">/dev-wp-general-testing/?p=1056</guid>
 
 					<description><![CDATA[Traveling with your pet can be a fun and rewarding experience, but it requires some preparation to ensure a smooth journey. Here are some tips to help you travel safely and comfortably with your furry friend. Plan Ahead Before you travel, make sure you have all the necessary documents, such as vaccination records and identification [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-2.jpeg" alt="Traveling Pets" class="wp-image-1057" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-2.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-2-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-2-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-2.jpeg" alt="Traveling Pets" class="wp-image-1057" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-2.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-2-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-2-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -145,7 +145,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-3.jpeg" alt="Pet Car Ride" class="wp-image-1058" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-3.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-3-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-3-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-3.jpeg" alt="Pet Car Ride" class="wp-image-1058" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-3.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-3-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-3-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -185,7 +185,7 @@
 			</item>
 		<item>
 		<title>The Benefits of Adopting a Pet</title>
-		<link>/wp-static-test-2/blog/uncategorized/the-benefits-of-adopting-a-pet/</link>
+		<link>/dev-wp-general-testing/blog/uncategorized/the-benefits-of-adopting-a-pet/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Mon, 06 May 2024 21:35:32 +0000</pubDate>
@@ -194,11 +194,11 @@
 		<category><![CDATA[Pet Health]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Adoption]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1052</guid>
+		<guid isPermaLink="false">/dev-wp-general-testing/?p=1052</guid>
 
 					<description><![CDATA[Adopting a pet is a rewarding experience that brings joy and companionship into your life. Whether you’re considering a dog, cat, or another type of pet, here are some benefits of choosing adoption. Saving a Life By adopting a pet from a shelter or rescue organization, you are giving an animal a second chance at [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image.jpeg" alt="Pet Adoption" class="wp-image-1053" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image.jpeg" alt="Pet Adoption" class="wp-image-1053" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 
@@ -222,7 +222,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-1.jpeg" alt="Happy Pets" class="wp-image-1054" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-1.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-1-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-1-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-1.jpeg" alt="Happy Pets" class="wp-image-1054" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-1.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-1-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-1-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
 
 
 

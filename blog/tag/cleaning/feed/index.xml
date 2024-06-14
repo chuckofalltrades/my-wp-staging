@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cleaning &#8211; WP Static Test 2</title>
-	<atom:link href="/wp-static-test-2/blog/tag/cleaning/feed/" rel="self" type="application/rss+xml" />
-	<link>/wp-static-test-2/</link>
+	<atom:link href="/dev-wp-general-testing/blog/tag/cleaning/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev-wp-general-testing/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
 	<lastBuildDate>Fri, 31 May 2024 21:45:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>/wp-static-test-2/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
+	<url>/dev-wp-general-testing/wp-content/uploads/2024/06/Charles-Circle-Profile-Pic-50x50.png</url>
 	<title>cleaning &#8211; WP Static Test 2</title>
-	<link>/wp-static-test-2/</link>
+	<link>/dev-wp-general-testing/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Essential Tips for Pet-Friendly Home Decor</title>
-		<link>/wp-static-test-2/blog/pet-health/essential-tips-for-pet-friendly-home-decor/</link>
+		<link>/dev-wp-general-testing/blog/pet-health/essential-tips-for-pet-friendly-home-decor/</link>
 		
 		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
 		<pubDate>Fri, 31 May 2024 21:35:14 +0000</pubDate>
@@ -38,11 +38,11 @@
 		<category><![CDATA[cleaning]]></category>
 		<category><![CDATA[decor]]></category>
 		<category><![CDATA[home]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1050</guid>
+		<guid isPermaLink="false">/dev-wp-general-testing/?p=1050</guid>
 
 					<description><![CDATA[Creating a pet-friendly home doesn&#8217;t mean sacrificing style. With a few thoughtful choices, you can have a beautiful home that&#8217;s also safe and comfortable for your pets. Here are some essential tips for pet-friendly home decor. Choose Durable Fabrics Opt for durable, easy-to-clean fabrics for your furniture. Materials like leather, microfiber, and outdoor fabrics are [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-7.jpeg" alt="" class="wp-image-1088" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-7.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-7-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-7-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 658</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-7.jpeg" alt="" class="wp-image-1088" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-7.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-7-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-7-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 658</figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/wp-static-test-2/wp-content/uploads/2024/05/image-8.jpeg" alt="" class="wp-image-1089" srcset="/wp-static-test-2/wp-content/uploads/2024/05/image-8.jpeg 800w, /wp-static-test-2/wp-content/uploads/2024/05/image-8-300x150.jpeg 300w, /wp-static-test-2/wp-content/uploads/2024/05/image-8-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 374</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="400" src="/dev-wp-general-testing/wp-content/uploads/2024/05/image-8.jpeg" alt="" class="wp-image-1089" srcset="/dev-wp-general-testing/wp-content/uploads/2024/05/image-8.jpeg 800w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-8-300x150.jpeg 300w, /dev-wp-general-testing/wp-content/uploads/2024/05/image-8-768x384.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption">Picsum ID: 374</figcaption></figure>
 
 
 
