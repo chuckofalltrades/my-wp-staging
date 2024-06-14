@@ -12,7 +12,7 @@
 	<atom:link href="/wp-static-test-2/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp-static-test-2/</link>
 	<description>This is a tagline.  I wonder how long it can be sinece I might have to use it as the all about me hire me etc section?  Seems like the wrong way to do it but oh well.</description>
-	<lastBuildDate>Wed, 12 Jun 2024 20:30:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Jun 2024 14:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Marker Post</title>
+		<link>/wp-static-test-2/blog/uncategorized/marker-post/</link>
+		
+		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
+		<pubDate>Fri, 14 Jun 2024 14:42:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wp-static-test-2/?p=1795</guid>
+
+					<description><![CDATA[Just to mark update place.]]></description>
+										<content:encoded><![CDATA[
+<p>Just to mark update place.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Pelican Songs</title>
 		<link>/wp-static-test-2/blog/uncategorized/pelican-songs/</link>
 		
@@ -445,33 +462,6 @@
 
 </div>
 ]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Animated text text.</title>
-		<link>/wp-static-test-2/blog/uncategorized/animated-text-text/</link>
-		
-		<dc:creator><![CDATA[Charles Palmer]]></dc:creator>
-		<pubDate>Fri, 07 Jun 2024 21:11:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/wp-static-test-2/?p=1453</guid>
-
-					<description><![CDATA[I have a few that do this I think. It worked once I guess?]]></description>
-										<content:encoded><![CDATA[
-<p>I have a few that do this I think.</p>
-
-
-
-
-
-<p>It worked once I guess?</p>
-
-
-		<div class='wp-block-ttb-text-typing  align' id='ttbTextTyping-987c7f98-6' data-attributes='{&quot;cId&quot;:&quot;987c7f98-6&quot;,&quot;isShuffle&quot;:true,&quot;prefixColor&quot;:&quot;#FFF&quot;,&quot;align&quot;:&quot;&quot;,&quot;prefixText&quot;:&quot;We create &quot;,&quot;typingContents&quot;:[{&quot;text&quot;:&quot;WordPress Plugins&quot;,&quot;color&quot;:&quot;#52c41a&quot;},{&quot;text&quot;:&quot;WordPress Themes&quot;,&quot;color&quot;:&quot;#fa8c16&quot;},{&quot;text&quot;:&quot;Drupal Modules&quot;,&quot;color&quot;:&quot;#1890ff&quot;},{&quot;text&quot;:&quot;Prestashop Modules&quot;,&quot;color&quot;:&quot;#df0067&quot;},{&quot;text&quot;:&quot;Magento Extensions&quot;,&quot;color&quot;:&quot;#f46f25&quot;},{&quot;text&quot;:&quot;Shopify Apps&quot;,&quot;color&quot;:&quot;#95bf47&quot;}],&quot;suffixText&quot;:&quot;&quot;,&quot;typeSpeed&quot;:100,&quot;startDelay&quot;:500,&quot;backSpeed&quot;:75,&quot;backDelay&quot;:500,&quot;isFadeOut&quot;:false,&quot;fadeOutDelay&quot;:500,&quot;isLoop&quot;:true,&quot;loopCount&quot;:0,&quot;isCursor&quot;:true,&quot;cursorChar&quot;:&quot;|&quot;,&quot;textAlign&quot;:&quot;center&quot;,&quot;background&quot;:{&quot;color&quot;:&quot;#0000&quot;},&quot;padding&quot;:{&quot;vertical&quot;:&quot;10px&quot;,&quot;horizontal&quot;:&quot;15px&quot;},&quot;prefixTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;typingContentsTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18},&quot;fontWeight&quot;:600},&quot;suffixTypo&quot;:{&quot;fontSize&quot;:{&quot;desktop&quot;:22,&quot;tablet&quot;:20,&quot;mobile&quot;:18}},&quot;suffixColor&quot;:&quot;#333&quot;,&quot;hasCustomCSS&quot;:false,&quot;customCSS&quot;:&quot;&quot;,&quot;otterConditions&quot;:[]}'></div>
-
-		]]></content:encoded>
 					
 		
 		
